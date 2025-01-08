@@ -144,7 +144,7 @@ description: "not actually a wiki, what is wiki anyway."
                 <p class="mb-3 lead">
                     {{ post.excerpt | strip_html | strip_newlines | truncate: 136 }}
                 </p>
-                <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Read More</a>
+                <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Selengkapnya</a>
             </div>
             <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/{{ post.image }});">	
             </div>
@@ -182,9 +182,9 @@ description: "not actually a wiki, what is wiki anyway."
             {% if paginator.total_pages > 1 %}
             <ul class="pagination"> 
               {% if paginator.previous_page %}
-                <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></li>
+                <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fas fa-chevron-left"></i></a></li>
               {% else %}
-                <li class="page-item disabled"><span class="prev page-link">&laquo;</span></li>
+                <li class="page-item disabled"><span class="prev page-link"><i class="fas fa-chevron-left"></i></span></li>
               {% endif %}
 
               {% for page in (1..paginator.total_pages) %}
@@ -200,7 +200,7 @@ description: "not actually a wiki, what is wiki anyway."
               {% if paginator.next_page %}
                 <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fas fa-chevron-right"></i></a></li>
               {% else %}
-                <li class="page-item disabled"><span class="next page-link">&raquo;</span></li>
+                <li class="page-item disabled"><span class="next page-link"><i class="fas fa-chevron-right"></i></span></li>
               {% endif %}
             </ul>
             {% endif %}      
