@@ -1,12 +1,13 @@
-image: ruby:latest
+# This file is a template, and might need editing before it works on your project.
+# Template project: https://gitlab.com/pages/jekyll
+# Docs: https://docs.gitlab.com/ce/pages/
+image: ruby:2.3
 
 variables:
   JEKYLL_ENV: production
-  LC_ALL: C.UTF-8
 
 before_script:
-  - gem install bundler
-  - bundle install
+- bundle install
 
 test:
   stage: test
@@ -15,8 +16,8 @@ test:
   artifacts:
     paths:
     - test
-  rules:
-    - if: $CI_COMMIT_REF_NAME != $CI_DEFAULT_BRANCH
+  except:
+  - master
 
 pages:
   stage: deploy
@@ -25,5 +26,6 @@ pages:
   artifacts:
     paths:
     - public
-  rules:
-    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
+  only:
+  - master
+
