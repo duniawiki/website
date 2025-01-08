@@ -1,7 +1,7 @@
 ---
 title: "Authors"
 layout: default
-permalink: "/authors"
+permalink: "/authors/"
 ---
 
 <div class="container">
