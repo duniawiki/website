@@ -1,9 +1,9 @@
 <span class="reading-time">
   {% assign words = content | number_of_words %}
   {% if words < 360 %}
-    Wkt baca 1 mnt
+    Waktu baca 1 mnt
   {% else %}
-    Wkt baca {{ words | divided_by:180 }} mnt
+    Waktu baca {{ words | divided_by:180 }} mnt
   {% endif %}
 </span>
     
