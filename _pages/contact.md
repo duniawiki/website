@@ -15,7 +15,7 @@ permalink: "/contact.html"
 </div>
 <textarea rows="8" class="form-control mb-3" name="message" placeholder="Isi Pesan/pertanyaan*" required></textarea>    
 <input class="btn btn-success" type="submit" value="Kirim">
-<p id="my-form-status"></p>
+<p id="kontak-status"></p>
 </form>
 
 <script>
