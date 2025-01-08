@@ -10,13 +10,13 @@ permalink: "/contact.html"
 <input class="form-control" type="text" name="name" placeholder="Nama *" required>
 </div>
 <div class="col-md-6">
-<input class="form-control" type="email" name="_replyto" placeholder="Alamat E-mail*" required>
+<input class="form-control" type="email" name="email" placeholder="Alamat E-mail*" required>
 </div>
 </div>
 <textarea rows="8" class="form-control mb-3" name="message" placeholder="Isi Pesan/pertanyaan*" required></textarea>    
 <input class="btn btn-success" type="submit" value="Kirim">
-<p id="kontak-status"></p>
 </form>
+<p id="kontak-status"></p>
 
 <script>
   var form = document.getElementById("kontak");
@@ -24,6 +24,7 @@ permalink: "/contact.html"
   async function handleSubmit(event) {
     event.preventDefault();
     var status = document.getElementById("kontak-status");
+    var ngumpet = document.getElementById("kontak");
     var data = new FormData(event.target);
     fetch(event.target.action, {
       method: form.method,
@@ -34,6 +35,7 @@ permalink: "/contact.html"
     }).then(response => {
       if (response.ok) {
         status.innerHTML = "Terima kasih atas kiriman anda!";
+        kontak.setAttribute('style', 'display:none !important');
         form.reset()
       } else {
         response.json().then(data => {
