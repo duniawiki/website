@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>{{page.title}} | {{site.name}}</title>
+    {% if page.url == "/" %} <title>{{site.name}} - {{page.title}}</title> {% else %} <title>{{page.title}} | {{site.name}}</title>{% endif %}
 
     {% seo %}
 
@@ -38,7 +38,7 @@
     <!-- Navbar -->
     <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
     <div class="container">
-        <a class="navbar-brand" href="{{ site.baseurl }}/index.html"><strong>{{site.name}}</strong></a>
+        <a class="navbar-brand" href="{{ site.baseurl }}/"><strong>{{site.name}}</strong></a>
         <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
         </button>
@@ -77,12 +77,12 @@
         <div class="container">
         <div class="row align-items-center justify-content-between">
             <div>
-                <span>Copyright © <script>document.write(new Date().getFullYear())</script>. Hak cipta dilindungi.</span>
+                <span>Copyright © <script>document.write(new Date().getFullYear())</script> {{site.name}}. Hak cipta dilindungi.</span>
 
 
             </div>
             <div>
-                <a class="text-dark font-weight-bold" href="/about"> Tentang </a> | <a class="text-dark" href="/terms">Ketentuan</a>.
+                <a class="text-dark" href="/about"> Tentang </a> | <a class="text-dark" href="/terms">Ketentuan</a>
             </div>
         </div>
         </div>
