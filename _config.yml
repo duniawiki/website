@@ -1,8 +1,8 @@
 # Site
 name: 'Dunia Wiki'
 description: 'Wiki about Dunia.'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: 'apple-touch-icon.png'
+favicon: 'favicon.ico'
 baseurl: ''
 disqus: 'demowebsite'
 graphcomment: 'Dunia'
