@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Kata Pakar Soal ERP di New York"
-author: dw
+author: dewek
 categories: [ News, Urban ]
 tags: [ New York, ERP ]
 image: assets/img/erp.avif
 ---
 
-NewYork/DW - Awal tahun ini, tepatnya tanggal 5 Januari lalu, Perda baru telah diberlakukan bagi pengemudi yang memasuki bagian tersibuk di Kota New York selama jam sibuk.
+Awal tahun ini, tepatnya tanggal 5 Januari lalu, Perda baru telah diberlakukan bagi pengemudi yang memasuki bagian tersibuk di Kota New York selama jam sibuk.
 
 Perda yang dikenal dengan Sistem Jalan Berbayar (_Congestion Pricing_) atau di Singapura dikenal sebagai _Electronic Road Pricing_ ini diharapkan dapat mengurangi kemacetan kota, memperbaiki lingkungan, dan salah satu sumber dana untuk infrastruktur angkutan umum. Pengemudi sebagian besar mobil penumpang akan membayar $9 untuk memasuki Manhattan di selatan Central Park pada hari kerja antara pukul 5 pagi hingga 9 malam, dan pada akhir pekan antara pukul 9 pagi sampai 9 malam. Di luar jam sibuk, dikenakan biaya sebesar $2,25 untuk sebagian besar kendaraan.
 
