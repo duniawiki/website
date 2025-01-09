@@ -1,7 +1,7 @@
 <span class="reading-time">
   {% assign words = content | number_of_words %}
   {% if words < 360 %}
-    Waktu baca 1 mnt
+    Waktu baca 1 menit
   {% else %}
     Waktu baca {{ words | divided_by:180 }} menit
   {% endif %}
