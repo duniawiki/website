@@ -2,6 +2,7 @@
 name: 'Dunia Wiki'
 description: 'Wiki about Dunia.'
 logo: 'apple-touch-icon.png'
+logotextimg: 'assets/images/logo-text.webp'
 favicon: 'favicon.ico'
 baseurl: ''
 disqus: 'demowebsite'
