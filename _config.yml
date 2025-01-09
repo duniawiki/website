@@ -37,6 +37,14 @@ authors:
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
  
+    dw:
+      name:           Ngopi Yuk
+      site:           https://ko-fi.com/duniawiki
+      avatar:         assets/images/avatar3.webp
+      bio:            "Peminum kopi, pecinta kampung, pembenci kampungan! Ngopi yuk di ko-fi.com/duniawiki"
+      email:          gakpunya@dunia.wiki.nospam
+      twitter:        https://twitter.com/dunia_wiki
+ 
 # Defaults
 defaults:
 
