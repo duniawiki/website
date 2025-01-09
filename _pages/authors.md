@@ -2,6 +2,7 @@
 title: "Kontributor"
 layout: default
 permalink: "/authors/"
+exclude_from_search: true
 ---
 
 <div class="container">
