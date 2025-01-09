@@ -1,7 +1,7 @@
 ---
 title: "Kontak"
-permalink: "/contact.html"
-exclude_from_search: true
+permalink: "/contact"
+search: exclude
 ---
 
 <form id="kontak" action="https://formspree.io/{{site.formspree}}" method="POST">    
