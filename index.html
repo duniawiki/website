@@ -21,7 +21,7 @@ search: exclude
     {% assign latest_post = site.posts[0] %}
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
-    <a href="{{site.baseurl}}{{latest_post.url}}">
+    <a href="{{site.baseurl}}{{latest_post.url}}" aria-label="{{ latest_post.title }}">
     <div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} {{site.baseurl}}/{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
     </a>
     <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
@@ -54,7 +54,7 @@ search: exclude
         <div class="mb-3 d-flex align-items-center">                
                 {% if second_post.image %}
                 <div class="col-md-4">
-                <a href="{{site.baseurl}}{{second_post.url}}">
+                <a href="{{site.baseurl}}{{second_post.url}}" aria-label="{{ second_post.title }}">
                  <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
                 </a>
                 </div>
@@ -81,7 +81,7 @@ search: exclude
         <div class="mb-3 d-flex align-items-center">                
                 {% if third_post.image %}
                 <div class="col-md-4">
-                <a href="{{site.baseurl}}{{third_post.url}}">
+                <a href="{{site.baseurl}}{{third_post.url}}" aria-label="{{ third_post.title }}">
                  <img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}">
                 </a>
                 </div>
@@ -108,7 +108,7 @@ search: exclude
         <div class="mb-3 d-flex align-items-center">                
                 {% if fourth_post.image %}
                 <div class="col-md-4">
-                <a href="{{site.baseurl}}{{fourth_post.url}}">
+                <a href="{{site.baseurl}}{{fourth_post.url}}" aria-label="{{ fourth_post.title }}">
                 <img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
                 </a>
                 </div>
@@ -183,7 +183,7 @@ search: exclude
             {% if paginator.total_pages > 1 %}
             <ul class="pagination"> 
               {% if paginator.previous_page %}
-                <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fas fa-chevron-left"></i></a></li>
+                <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" aria-label="Halaman sebelumnya"><i class="fas fa-chevron-left"></i></a></li>
               {% else %}
                 <li class="page-item disabled"><span class="prev page-link"><i class="fas fa-chevron-left"></i></span></li>
               {% endif %}
@@ -199,7 +199,7 @@ search: exclude
               {% endfor %}
 
               {% if paginator.next_page %}
-                <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fas fa-chevron-right"></i></a></li>
+                <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" aria-label="Halaman selanjutnya"><i class="fas fa-chevron-right"></i></a></li>
               {% else %}
                 <li class="page-item disabled"><span class="next page-link"><i class="fas fa-chevron-right"></i></span></li>
               {% endif %}

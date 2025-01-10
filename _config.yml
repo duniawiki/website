@@ -1,12 +1,11 @@
 # Site
 name: 'Dunia Wiki'
-description: 'Wiki about Dunia.'
+description: 'Wiki tentang Dunia.'
 logo: 'apple-touch-icon.png'
 logotextimg: 'assets/images/logo-text.webp'
 favicon: 'favicon.ico'
-baseurl: ''
-cdnurl: ''
-disqus: 'demowebsite'
+baseurl: 'https://dunia.wiki'
+#cdnurl: 'https://cdn.jsdelivr.net/gh/duniawiki/assets@master'
 graphcomment: 'Dunia'
 formspree: 'movvpoyd'
 email: 'mail@dunia.wiki'
@@ -56,7 +55,7 @@ defaults:
     values:
       layout: post
       author: sal
-      avatar: /assets/images/avatar1.jpg
+      avatar: assets/images/avatar1.jpg
       
   # all pages
   - scope:
