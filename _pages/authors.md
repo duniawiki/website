@@ -2,7 +2,7 @@
 title: "Kontributor"
 permalink: "/authors/"
 search: exclude
-layout: page-about
+layout: default
 comments: false
 ---
 
