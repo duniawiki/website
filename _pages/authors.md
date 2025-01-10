@@ -1,8 +1,9 @@
 ---
 title: "Kontributor"
-layout: default
 permalink: "/authors/"
 search: exclude
+layout: page-about
+comments: false
 ---
 
 <div class="container">

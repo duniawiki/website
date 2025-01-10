@@ -2,6 +2,8 @@
 title: "Kontak"
 permalink: "/contact"
 search: exclude
+layout: page-about
+comments: false
 ---
 
 <form id="kontak" action="https://formspree.io/{{site.formspree}}" method="POST">    
