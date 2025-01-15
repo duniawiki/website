@@ -43,7 +43,18 @@
                {% include menu-header.html %}
             </ul>
             <ul class="navbar-nav ml-auto d-flex align-items-center">
-                {% include search-lunr.html %}
+                <!-- { % include search-lunr.html % } -->
+                <li class="nav-item">
+                    <form class="navbar-form navbar-left input-group" role="search" action="/search">
+                      <input class="form-control" type="search" name="q" id="search-bar" placeholder="Cari" aria-label="Cari" style="border: 1px solid rgba(0, 0, 0, .04);">
+                      <div class="input-group-append">
+                        <button type="submit" class="btn btn-light">
+                          <span class="fa fa-search"></span>
+                        </button>
+                      </div>
+                    </form>
+                </li>
+          
             </ul>
         </div>
     </div>
