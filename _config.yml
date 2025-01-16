@@ -2,7 +2,7 @@
 name: 'Dunia Wiki'
 description: 'Wiki tentang Dunia.'
 logo: 'apple-touch-icon.png'
-logotextimg: 'assets/images/logo-text.webp'
+logotextimg: 'assets/images/logo-text.svg'
 favicon: 'favicon.ico'
 baseurl: 'https://dunia.wiki'
 #cdnurl: 'https://cdn.jsdelivr.net/gh/duniawiki/assets@master'
@@ -20,6 +20,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-gzip
   
 authors:
     sal:
@@ -78,8 +79,19 @@ jekyll-archives:
     category: archive
     tag: tag
   permalinks:
-    category: '/:name/'
-    tag: '/tag/:name/'
+    category: '/:name'
+    tag: '/tag/:name'
+
+# Compression
+gzip:
+  extensions:
+    - '.html'
+    - '.css'
+    - '.js'
+    - '.txt'
+    - '.xml'
+    - '.svg'
+    - '.json'
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
