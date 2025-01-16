@@ -13,6 +13,9 @@ mailchimp-list: 'https://wiki.us15.list-manage.com/subscribe/post?u=e067a35c5425
 include: ["_pages"]
 permalink: /:year:month/:title
 
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "enabled"
+
 # Plugins
 plugins: 
   - jekyll-feed
