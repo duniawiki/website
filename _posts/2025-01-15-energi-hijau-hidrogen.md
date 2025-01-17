@@ -4,7 +4,7 @@ title:  "Energi Hijau: Mengubah limbah menjadi berkah"
 author: dewek
 categories: [ Energi Baru ]
 image: assets/img/auriferous-fish.avif
-tags: [hidrogen]
+tags: [Biogas, Limbah]
 ---
 
 Saat dunia bergulat dengan meningkatnya konsumsi energi dan meningkatnya krisis lingkungan, kebutuhan akan solusi energi berkelanjutan tidak pernah lebih mendesak. Produksi hidrogen mikroba muncul sebagai jalur energi terbarukan yang menjanjikan, menawarkan alternatif yang bersih dan berdensitas energi tinggi yang dapat bersumber dari berbagai macam bahan baku. Namun, perjalanan untuk memanfaatkan potensi penuhnya menghadapi kendala yang signifikan, termasuk meningkatkan efisiensi produksi dan meningkatkan skala proses untuk aplikasi industri. Dengan latar belakang ini, mengeksplorasi mekanisme dan kemajuan terkini dalam produksi hidrogen mikroba dari limbah menjadi sangat penting.
@@ -19,4 +19,4 @@ Implikasi dari penelitian ini sangat luas, menawarkan pendekatan transformatif t
 
 Keterangan gambar: Auriferous fish, siklus hijau produksi hidrogen secara biologis, mengubah limbah menjadi berkah.
 
-Sumber: https://doi.org/10.23919/CJEE.2024.000065
+Sumber: (https://doi.org/10.23919/CJEE.2024.000065)

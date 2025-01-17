@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Kata Pakar Soal ERP di New York"
+title:  "New York menerapkan Electronic Road Pricing"
 author: dewek
-categories: [ News, Urban ]
+categories: [ Urban ]
 tags: [ New York, ERP ]
 image: assets/img/erp.avif
 ---
