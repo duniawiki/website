@@ -34,5 +34,5 @@ Dr. Jwa Eunjin, peneliti utama, menyatakan, "Perkembangan teknologi ini tidak ha
 
 Sementara itu, penelitian ini dilakukan dengan dukungan dari Future Hydrogen Original Technology Development Program dari National Research Foundation of Korea. Hasilnya dipublikasikan di Science of The Total Environment, jurnal terkenal secara global di bidang ilmu lingkungan.
 
-Sumber: (https://doi.org/10.1016/j.scitotenv.2024.176884)
+Sumber: <https://doi.org/10.1016/j.scitotenv.2024.176884>
 

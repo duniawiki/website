@@ -19,4 +19,4 @@ Implikasi dari penelitian ini sangat luas, menawarkan pendekatan transformatif t
 
 Keterangan gambar: Auriferous fish, siklus hijau produksi hidrogen secara biologis, mengubah limbah menjadi berkah.
 
-Sumber: (https://doi.org/10.23919/CJEE.2024.000065)
+Sumber: <https://doi.org/10.23919/CJEE.2024.000065>
