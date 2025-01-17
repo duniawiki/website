@@ -54,3 +54,5 @@ Temuan tersebut menyoroti bagaimana perubahan lingkungan secara tidak proporsion
 Studi ini menggarisbawahi pentingnya inisiatif kehutanan perkotaan dan pengelolaan spesies invasif. Upaya untuk mempertahankan dan memulihkan tutupan pohon dapat memainkan peran penting dalam mengurangi kesenjangan lingkungan dan sosial. Karya Garcia juga membuka pintu untuk eksplorasi lebih lanjut tentang bagaimana perubahan ekosistem membentuk hasil manusia, khususnya di lingkungan perkotaan tempat ketidakadilan lingkungan sangat mencolok.
 
 Studi, “[Unequally distributed education impacts of ecosystem degradation: Evidence from an invasive species](https://www.sciencedirect.com/science/article/pii/S0959378024001468?via%3Dihub)”, muncul dalam Global Environmental Change edisi Desember 2024.
+
+Keterangan foto: Alberto Garcia, kiri, dan Michelle Lee di kampus Universitas Utah yang dipenuhi pepohonan.
