@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Penggunaan Inderaja untuk Memantau Sampah Plastik di Sungai dan Danau"
+title:  "Penggunaan inderaja untuk memantau sampah plastik di sungai dan danau"
 author: dewek
 categories: [ Lingkungan ]
 image: assets/img/inderaja-limbah-plastik.avif
