@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New York menerapkan Electronic Road Pricing"
+title:  "Hidrogen produksi BEC dari Mikroorganisme limbah: Membuka jalan produksi masal"
 author: dewek
 categories: [ Energi Baru ]
 tags: [ Biogas, Limbah ]
