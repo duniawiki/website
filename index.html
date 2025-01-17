@@ -187,7 +187,7 @@ search: exclude
             {% if paginator.total_pages > 1 %}
             <ul class="pagination"> 
               {% if paginator.previous_page %}
-                <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" aria-label="Halaman sebelumnya"><i class="fas fa-chevron-left"></i></a></li>
+                <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path }}" aria-label="Halaman sebelumnya"><i class="fas fa-chevron-left"></i></a></li>
               {% else %}
                 <li class="page-item disabled"><span class="prev page-link"><i class="fas fa-chevron-left"></i></span></li>
               {% endif %}
@@ -198,12 +198,12 @@ search: exclude
                 {% elsif page == 1 %}
                 <li class="page-item"><a class="page-link" href="{{site.baseurl}}/">{{ page }}</a></li>
                 {% else %}
-                <li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+                <li class="page-item"><a class="page-link" href="{{ site.paginate_path | replace: ':num', page }}">{{ page }}</a></li>
                 {% endif %}
               {% endfor %}
 
               {% if paginator.next_page %}
-                <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" aria-label="Halaman selanjutnya"><i class="fas fa-chevron-right"></i></a></li>
+                <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path }}" aria-label="Halaman selanjutnya"><i class="fas fa-chevron-right"></i></a></li>
               {% else %}
                 <li class="page-item disabled"><span class="next page-link"><i class="fas fa-chevron-right"></i></span></li>
               {% endif %}
