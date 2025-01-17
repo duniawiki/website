@@ -4,7 +4,7 @@ title:  "Dunia terancam sampah plastik"
 author: dewek
 categories: [ Lingkungan ]
 image: assets/img/pexels-juanp-1549528.avif
-tags: [sticky, sampah plastik]
+tags: [sticky, Sampah Plastik]
 ---
 
 Dunia kini sedang menghadapi ancaman dari sampah plastik, yang terakumulasi di lautan, sungai, dan danau dengan tingkat yang mengkhawatirkan. Setiap hari, sekira 2.000 truk sampah penuh plastik dibuang ke ekosistem perairan, dengan perkiraan 19-23 juta ton sampah plastik bocor ke lingkungan ini setiap tahun. Polusi ini tidak hanya memengaruhi kehidupan laut tetapi juga berdampak pada ekosistem darat, yang menyebabkan hilangnya keanekaragaman hayati dan degradasi ekosistem.
