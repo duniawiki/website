@@ -3,7 +3,7 @@ layout: post
 title:  "Menjaring air di udara: Peneliti NUS kembangkan alat memanen air otonom"
 author: dewek
 categories: [ Tekno ]
-tags: [ Panen Air ]
+tags: [ Panen Air, featured ]
 image: assets/img/nus-panen-air.avif
 ---
 

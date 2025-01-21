@@ -3,7 +3,7 @@ layout: post
 title:  "Monitor denyut bumi: Tinjauan kemajuan deret waktu penginderaan jauh"
 author: dewek
 categories: [ Tekno ]
-tags: [ Inderaja ]
+tags: [ Inderaja, featured ]
 image: assets/img/10.34133-remotesensing.0285Figure3_01.avif
 ---
 
