@@ -4,4 +4,4 @@ search: exclude
 sitemap: false
 ---
 User-agent: *
-Sitemap: {{ site.baseurl }}/sitemap.xml
+Sitemap: {{ site.url }}/sitemap.xml
