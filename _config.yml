@@ -4,7 +4,8 @@ description: 'Wiki tentang Dunia.'
 logo: 'apple-touch-icon.png'
 logotextimg: 'assets/images/logo-text.svg'
 favicon: 'favicon.ico'
-baseurl: 'https://dunia.wiki'
+url: 'https://dunia.wiki'
+baseurl: ''
 # cdnurl: 'https://cdn.jsdelivr.net/gh/duniawiki/assets@master'
 graphcomment: 'Dunia'
 formspree: 'movvpoyd'
@@ -72,7 +73,7 @@ jekyll-archives:
 # Feed
 feed:
   excerpt_only: true
-  
+
 # Compression
 gzip:
   extensions:
