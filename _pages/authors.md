@@ -1,6 +1,6 @@
 ---
 title: "Kontributor"
-permalink: "/authors"
+permalink: "/authors/"
 search: exclude
 layout: default
 comments: false
