@@ -5,7 +5,7 @@ logo: 'apple-touch-icon.png'
 logotextimg: 'assets/images/logo-text.svg'
 favicon: 'favicon.ico'
 baseurl: 'https://dunia.wiki'
-#cdnurl: 'https://cdn.jsdelivr.net/gh/duniawiki/assets@master'
+# cdnurl: 'https://cdn.jsdelivr.net/gh/duniawiki/assets@master'
 graphcomment: 'Dunia'
 formspree: 'movvpoyd'
 email: 'mail@dunia.wiki'
@@ -55,7 +55,7 @@ defaults:
 
   # all posts
   - scope:
-      path: "_posts"
+      path: '_posts'
     values:
       layout: post
       author: sal
@@ -63,7 +63,7 @@ defaults:
       
   # all pages
   - scope:
-      path: "_pages"
+      path: '_pages'
     values:
       layout: page
       
@@ -73,7 +73,7 @@ highlighter: rouge
 
 # Paginate
 paginate: 10
-paginate_path: "/page/:num"
+paginate_path: '/page/:num'
 
 # Archives
 jekyll-archives:

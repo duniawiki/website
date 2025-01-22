@@ -4,7 +4,7 @@ title:  "Penggunaan inderaja untuk memantau sampah plastik di sungai dan danau"
 author: dewek
 categories: [ Lingkungan ]
 image: assets/img/inderaja-limbah-plastik.avif
-tags: [Inderaja, Sampah Plastik]
+tags: [Inderaja, Sampah Plastik, featured]
 ---
 
 Sebuah studi yang baru pertama dibuat dilakukan oleh para peneliti di University of Minnesota Twin Cities menunjukkan bagaimana penginderaan jarak jauh (inderaja, _remote sensing_) dapat membantu memantau dan membuang sampah plastik dari lingkungan air tawar seperti Sungai Mississippi.
