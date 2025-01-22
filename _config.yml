@@ -69,6 +69,10 @@ jekyll-archives:
     category: '/:name'
     tag: '/tag/:name'
 
+# Feed
+feed:
+  excerpt_only: true
+  
 # Compression
 gzip:
   extensions:
