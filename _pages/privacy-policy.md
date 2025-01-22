@@ -3,43 +3,41 @@ title: "Kebijakan Privasi"
 permalink: "/privacy"
 layout: page-about
 comments: false
+search: exclude
 ---
 
-"{{site.name}}" takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
+"{{site.name}}" menganggap serius privasi Anda. Dalam rangka melindungi privasi Anda dengan lebih baik, kami menyediakan halaman informasi kebijakan privasi ini yang menjelaskan cara informasi pribadi Anda dikumpulkan dan digunakan.
 
+#### Pengumpulan Informasi Rutin
 
-#### Collection of Routine Information
+Situs web ini melacak informasi dasar tentang pengunjungnya. Informasi ini mencakup, tetapi tidak terbatas pada, alamat IP, detail browser, stempel waktu, dan halaman rujukan. Tidak satu pun dari informasi ini yang dapat mengidentifikasi pengunjung tertentu ke situs web ini secara pribadi. Informasi tersebut dilacak untuk keperluan administrasi dan pemeliharaan rutin.
 
-This website track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitor to this website. The information is tracked for routine administration and maintenance purposes.
+####  Cookie
 
+Jika dianggap perlu, situs web ini menggunakan _cookie_ untuk menyimpan informasi tentang preferensi dan riwayat pengunjung guna melayani pengunjung dengan lebih baik dan/atau menyajikan konten yang disesuaikan kepada pengunjung.
 
-#### Cookies
+#### Iklan dan Pihak Ketiga Lainnya
 
-Where necessary, this website uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Mitra periklanan dan pihak ketiga lainnya memiliki kemungkinan menggunakan cookie, skrip, dan/atau _web beacon_ untuk melacak aktivitas pengunjung di situs web ini guna menampilkan iklan dan informasi bermanfaat lainnya. Pelacakan tersebut dilakukan langsung oleh pihak ketiga melalui server mereka sendiri dan tunduk pada kebijakan privasi mereka sendiri. Situs web ini tidak memiliki akses atau kendali atas cookie, skrip, dan/atau _web beacon_ yang mungkin digunakan oleh pihak ketiga ini. Pelajari [cara mengatur penggunaan _cookie_ Google](http://www.google.com/privacy_ads.html).
 
+#### Tautan ke Situs Web Pihak Ketiga
 
-#### Advertisement and Other Third Parties
+Kami telah menyertakan tautan di situs web ini untuk penggunaan dan referensi Anda. Kami tidak bertanggung jawab atas kebijakan privasi di situs web tersebut. Anda harus menyadari bahwa kebijakan privasi situs web tersebut mungkin berbeda dari kebijakan privasi kami.
 
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track visitor activities on this website in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This website has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
+#### Keamanan
 
+Keamanan informasi pribadi Anda penting bagi kami, tetapi ingatlah bahwa tidak ada metode transmisi melalui Internet, atau metode penyimpanan elektronik, yang 100% aman. Meskipun kami berusaha menggunakan cara yang dapat diterima secara komersial untuk melindungi informasi pribadi Anda, kami tidak dapat menjamin keamanannya secara mutlak.
 
-#### Links to Third Party Websites
+#### Perubahan atas Kebijakan Privasi Ini
 
-We have included links on this website for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own.
+Kebijakan Privasi ini efektif dan akan tetap berlaku kecuali sehubungan dengan perubahan apa pun dalam ketentuannya di masa mendatang, yang akan berlaku segera setelah diposting di halaman ini.
 
+Kami berhak memperbarui atau mengubah Kebijakan Privasi kami kapan saja dan Anda harus memeriksa Kebijakan Privasi ini secara berkala. Jika kami membuat perubahan materi apa pun pada Kebijakan Privasi ini, kami akan memberi tahu Anda baik melalui alamat email yang telah Anda berikan kepada kami, atau dengan menempatkan pemberitahuan yang jelas di situs web kami.
 
-#### Security
+#### Informasi Kontak
 
-The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+Jika ada pertanyaan atau masalah terkait kebijakan privasi, silakan [hubungi kami di sini](/contact).
 
+**Update:**
+- Versi 1. 22 Januari 2025
 
-#### Changes To This Privacy Policy
-
-This Privacy Policy is effective and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
-
-We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
-
-
-#### Contact Information
-
-For any questions or concerns regarding the privacy policy, please [contact us here]({{site.baseurl}}/contact).
