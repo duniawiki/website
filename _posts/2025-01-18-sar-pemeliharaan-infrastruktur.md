@@ -15,12 +15,10 @@ Teknologi survei area luas berbasis satelit menggunakan SAR untuk menghasilkan g
 
 Dr. Sungpil, Hwang dan Dr. Wooseok, Kim dari KICT telah memanfaatkan data SAR satelit untuk mempelajari dampak struktur bawah tanah, termasuk jalan dan kereta bawah tanah. Penelitian ini menganalisis dampak penggalian, seperti penurunan permukaan yang disebabkan oleh peledakan, dan memverifikasi penerapan teknologi dalam berbagai kondisi struktural di daerah perkotaan. Dengan teknologi ini, pemantauan luas terhadap perpindahan permukaan diantisipasi dapat dilakukan.
 
-Tim peneliti gabungan dari KICT dan Universitas Tokyo melakukan analisis terhadap fasilitas pembuangan limbah aktual untuk memverifikasi penerapan teknologi tersebut pada lokasi TPA pada tahun 2024. Untuk menghilangkan hambatan seperti pohon di lokasi yang luas seperti TPA, digunakan Scatterer atau reflektor. Sebagai hasil dari penerapan penyebar, diperoleh data yang lebih dari 15 dB lebih tinggi daripada area sekitarnya. Hal ini menunjukkan bahwa pemeliharaan fasilitas TPA dapat dilakukan dengan lebih akurat. Jika teknologi ini diterapkan, biaya pemeliharaan akan berkurang lebih dari 30% dibandingkan dengan metode yang ada, dan titik buta dalam pengelolaan akan dihilangkan.
+Tim peneliti gabungan dari KICT dan Universitas Tokyo melakukan analisis terhadap fasilitas pembuangan limbah aktual untuk memverifikasi penerapan teknologi tersebut pada lokasi TPA pada tahun 2024. Untuk menghilangkan hambatan seperti pohon di lokasi yang luas seperti TPA, digunakan _Scatterer_ atau reflektor. Sebagai hasil dari penerapan penyebar, diperoleh data yang lebih dari 15 dB lebih tinggi daripada area sekitarnya. Hal ini menunjukkan bahwa pemeliharaan fasilitas TPA dapat dilakukan dengan lebih akurat. Jika teknologi ini diterapkan, biaya pemeliharaan akan berkurang lebih dari 30% dibandingkan dengan metode yang ada, dan titik buta dalam pengelolaan akan dihilangkan.
 
-<figure>
 ![reflektor](/assets/img/sar-infra-maint-reflektor.avif)
-<figcaption>Contoh reflektor yang terpasang di sebuah TPA.</figcaption>
-</figure>
+*Contoh reflektor yang terpasang di sebuah TPA.*
 
 Dr. Hwang, peneliti utama, menyoroti masalah infrastruktur yang menua, dengan menyatakan, "Jumlah fasilitas yang memerlukan pemeliharaan terus meningkat." Ia lebih lanjut menekankan manfaat potensial dari data SAR satelit, dengan mencatat, "Diharapkan penggunaan data SAR satelit akan memungkinkan pemeliharaan yang hemat biaya dan efisien."
 
