@@ -13,6 +13,7 @@ email: 'mail@dunia.wiki'
 mailchimp-list: 'https://wiki.us15.list-manage.com/subscribe/post?u=e067a35c5425dfd3bb6f8f5da&amp;id=55c478cf38'
 include: ["_pages"]
 permalink: /:year:month/:title
+githubpages: 'https://github.com/duniawiki/website'
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "enabled"
