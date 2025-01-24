@@ -4,7 +4,7 @@ permalink: "/join"
 layout: page-about
 # comments: false
 search: exclude
-image: assets/img/about.avif
+image: assets/images/aboutus.avif
 ---
 
 "{{site.name}}" 

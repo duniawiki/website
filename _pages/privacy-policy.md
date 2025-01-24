@@ -4,7 +4,7 @@ permalink: "/privacy"
 layout: page-about
 comments: false
 search: exclude
-image: assets/img/lockscreen.avif
+image: assets/images/lockscreen.avif
 ---
 
 "{{site.name}}" menganggap serius privasi Anda. Dalam rangka melindungi privasi Anda dengan lebih baik, kami menyediakan halaman informasi kebijakan privasi ini yang menjelaskan cara informasi pribadi Anda dikumpulkan dan digunakan.

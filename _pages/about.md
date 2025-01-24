@@ -4,7 +4,7 @@ permalink: "/about"
 layout: page-about
 comments: true
 search: exclude
-image: assets/img/about.avif
+image: assets/images/aboutus.avif
 ---
 
 "{{site.name}}" 

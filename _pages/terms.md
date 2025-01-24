@@ -4,7 +4,7 @@ permalink: "/terms"
 layout: page-about
 comments: false
 search: exclude
-image: assets/img/lockscreen.avif
+image: assets/images/lockscreen.avif
 ---
 
 Syarat dan Ketentuan Standar Situs Web yang tertulis di halaman web ini akan mengatur penggunaan situs web kami, **{{site.name}}** yang dapat diakses di **{{site.url}}**.

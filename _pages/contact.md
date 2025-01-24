@@ -4,7 +4,7 @@ permalink: "/contact"
 search: exclude
 layout: page-about
 comments: false
-image: assets/img/about.avif
+image: assets/images/contact.avif
 ---
 
 <form id="kontak" action="https://formspree.io/{{site.formspree}}" method="POST">    
