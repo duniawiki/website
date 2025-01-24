@@ -52,6 +52,11 @@ defaults:
       path: '_pages'
     values:
       layout: page
+
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/ogimage.avif
       
 # Syntax
 markdown: kramdown

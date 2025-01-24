@@ -3,7 +3,7 @@ layout: default
 ---
 {% assign author = site.authors[page.author] %}
 <div class="container">
-<div class="jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
+	<div class="jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
 		<div class="h-100 tofront">
 			<div class="row {% if page.image %} justify-content-between {% else %} justify-content-center {% endif %}">
 				<div class="{% if page.image %} col-md-6 {% else %} col-md-8 {% endif %} pr-0 pr-md-4 pt-4 pb-4 align-self-center">
@@ -34,33 +34,30 @@ layout: default
 	</div>
 </div>
 
-
-
-
-
 <div class="container-lg pt-4 pb-4">
 	<div class="row justify-content-center">
-        
-        
-        <!-- Share -->
 		<div class="col-lg-2 pr-4 mb-4 col-md-12">
 			<div class="sticky-top sticky-top-offset text-center">
 				<div class="text-muted">
 					Bagikan
 				</div>
 				<div class="share d-inline-block">
-					<!-- AddToAny BEGIN -->
 					<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-						<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-						<a class="a2a_button_facebook"></a>
-						<a class="a2a_button_twitter"></a>
+						<ul>
+							<li class="ml-1 mr-1">
+								<a class="a2a_button_facebook" target="_blank" href="https://facebook.com/sharer.php?u={{ page.url | absolute_url }}" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;"><i class="fab fa-facebook-f"></i></a>
+							</li>
+							<li class="ml-1 mr-1">
+								<a class="a2a_button_twitter" target="_blank" href="https://twitter.com/intent/tweet?text=[{{site.name}}] {{ page.title }}&url={{ page.url | absolute_url }}" onclick="window.open(this.href, 'twitter-share', 'width=550,height=435');return false;"><i class="fab fa-twitter"></i></a>
+							</li>
+							<li class="ml-1 mr-1">
+								<a href="https://wa.me/?text=[{{site.name}}] {{ page.title }} {{ page.url | absolute_url }}" data-action="share/whatsapp/share" onclick="window.open(this.href, 'whatsapp-share', 'width=550,height=435');return false;"><i class="fab fa-whatsapp"></i></a>
+							</li>
+						</ul>
 					</div>
-					<script async src="https://static.addtoany.com/menu/page.js"></script>
-					<!-- AddToAny END -->
 				</div>
 			</div>
 		</div>
-        
         
 		<div class="col-md-12 col-lg-8">
             
