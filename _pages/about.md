@@ -2,8 +2,9 @@
 title: "Tentang Kami"
 permalink: "/about"
 layout: page-about
-comments: false
+comments: true
 search: exclude
+image: assets/img/about.avif
 ---
 
 "{{site.name}}" 
