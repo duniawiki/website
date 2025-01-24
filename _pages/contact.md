@@ -37,7 +37,7 @@ comments: false
       }
     }).then(response => {
       if (response.ok) {
-        status.innerHTML = "Terima kasih atas kiriman anda!";
+        status.innerHTML = "<b>Terima kasih atas kiriman anda!</b><br>Kami akan memeriksanya dan mengirimkan tanggapan sesegera mungkin jika dibutuhkan.<br><br>Kembali ke <a href='/'>halaman depan</a>.";
         kontak.setAttribute('style', 'display:none !important');
         form.reset()
       } else {
@@ -45,12 +45,12 @@ comments: false
           if (Object.hasOwn(data, 'errors')) {
             status.innerHTML = data["errors"].map(error => error["message"]).join(", ")
           } else {
-            status.innerHTML = "Ups! Ada masalah saat mengirim form"
+            status.innerHTML = "Ups! Ada masalah saat mengirim form.<br><br>Coba <a href='/contact'>ulangi lagi dengan isian yang lengkap dan benar</a>."
           }
         })
       }
     }).catch(error => {
-      status.innerHTML = "Ups! Ada masalah saat mengirim  form"
+      status.innerHTML = "Ups! Ada masalah saat mengirim form.<br><br>Coba <a href='/contact'>ulangi lagi dengan isian yang lengkap dan benar</a>."
     });
   }
   form.addEventListener("submit", handleSubmit)
