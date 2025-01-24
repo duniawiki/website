@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Menelusuri kondisi lahan basah di atap bumi"
+author: dewek
+categories: [ Lingkungan ]
+tags: [ Inderaja, Lahan Basah, Tibet ]
+image: assets/img/tibet-wetland.avif
+---
+
+Dataran Tinggi Qinghai-Tibet, yang sering disebut sebagai "Kutub Ketiga," telah mengalami perubahan lingkungan yang dramatis. Lahan basah pegunungannya, yang penting bagi keanekaragaman hayati regional dan pengaturan air, menunjukkan tanda-tanda stres yang mengkhawatirkan—termasuk penurunan sumber daya air dan degradasi padang rumput. Namun, seringnya tertutup awan dan salju di Dataran Tinggi ini membuat pemantauan yang konsisten dan jangka panjang menjadi sangat sulit. Dengan latar belakang ini, urgensi untuk penelitian lanjutan tentang bagaimana ekosistem ini merespons perubahan iklim tidak pernah sebesar ini.
+
+Menanggapi seruan ini, para ilmuwan dari South China Normal University, Tibet University, dan Chinese Academy of Sciences telah mengembangkan algoritma lahan basah pegunungan (AW-CCD), yang dirinci (DOI: 10.34133/remotesensing.0380) dalam edisi 2 Januari 2025, Journal of Remote Sensing. AW-CCD menawarkan solusi yang cerdik untuk tantangan pelacakan degradasi lahan basah pegunungan, terutama di Dataran Tinggi Qinghai-Tibet yang diselimuti awan. Dengan memanfaatkan data deret waktu Landsat, kerangka kerja tersebut mendeteksi dan memetakan perubahan ekosistem secara andal, sehingga secara efektif mengisi kesenjangan data penting di wilayah berawan dan dataran tinggi.
+
+Inti dari inovasi AW-CCD adalah desain kemampuan ganda: ia mengklasifikasikan lahan basah setiap tahun dan melacak degradasi dengan mengintegrasikan data antar-tahunan jangka panjang dengan indikator kebasahan tanah musiman. Pendekatan yang disempurnakan ini secara signifikan meningkatkan akurasi pemetaan—meningkatkan deteksi tutupan salju hingga 5% dan klasifikasi padang rumput hingga 3%. Di Lahan Basah Maidika, AW-CCD mencapai akurasi pemetaan yang mengesankan sebesar 94,9% pada tahun 2022. Kekuatan algoritme tersebut terletak pada analisis spektral-temporalnya, yang memungkinkannya untuk menangkap perubahan permukaan multi-skenario yang halus yang telah lama luput dari metode tradisional yang berjuang dengan citra yang tidak teratur dan pola degradasi yang kompleks.
+
+Studi tersebut melukiskan gambaran yang gamblang tentang perubahan lingkungan. Selama dua dekade terakhir, wilayah bersalju dan sungai di Lahan Basah Maidika menyusut masing-masing sebesar 5,04% dan 16,74%. Sementara itu, 3,23% padang rumput rawa berubah menjadi padang rumput Alpen yang lebih kering—perubahan yang menandakan tekanan ekologis. Degradasi paling parah terjadi sebelum 2009, diikuti oleh stabilisasi singkat hingga 2015, dan kebangkitan yang meresahkan dalam beberapa tahun terakhir. Penggunaan fitur indeks spektral-temporal AW-CCD, seperti Normalized Difference Snow Index (NDSI) untuk deteksi salju dan Meadow Spectral Ratio Vegetation Index (MSRVI) untuk membedakan tingkat kebasahan padang rumput, sangat penting dalam menangkap transisi bernuansa ini.
+
+Tim peneliti menggunakan kumpulan data komprehensif, menganalisis gambar dari Landsat Thematic Mapper (TM), Enhanced Thematic Mapper Plus (ETM+), dan Operational Land Imager (OLI) antara tahun 2003 dan 2022 untuk mencakup seluruh Lahan Basah Maidika. Gangguan awan dan bayangan diminimalkan menggunakan algoritma Fmask, sementara data elevasi dan lereng dari Shuttle Radar Topography Mission dan ALOS World 3D-30m menyempurnakan presisi klasifikasi. Selain itu, data Global Surface Water meningkatkan akurasi pemetaan air permukaan.
+
+Dr. Yingchun Fu, ilmuwan terkemuka dalam proyek tersebut, menekankan dampak yang lebih luas dari temuan mereka: “Kerangka kerja AW-CCD tidak hanya meningkatkan kapasitas kita untuk memantau lahan basah pegunungan tetapi juga memperdalam pemahaman kita tentang bagaimana ekosistem ini merespons perubahan iklim. Teknologi ini pada dasarnya dapat membentuk kembali upaya konservasi di wilayah dataran tinggi.” Dengan menangkap respons multiskenario yang rumit dari lahan basah ini, AW-CCD memberikan wawasan penting untuk menjaga kesehatan ekologi Dataran Tinggi.
+
+Implikasi dari kerangka kerja AW-CCD jauh melampaui pencapaian akademis. Kemampuannya untuk memberikan data yang terperinci, akurat, dan tepat waktu tentang degradasi lahan basah memberdayakan para pembuat kebijakan dan konservasionis untuk membuat keputusan yang tepat. Karena perubahan iklim terus membahayakan ekosistem yang sensitif ini, AW-CCD menonjol sebagai alat transformatif—alat yang dapat membantu mengurangi degradasi dan menjaga keanekaragaman hayati unik di wilayah pegunungan. Penelitian ini tidak hanya mendorong bidang penginderaan jauh menjadi lebih maju, tetapi juga memberikan kontribusi penting bagi upaya konservasi lingkungan global.
+
+Sumber: <https://spj.science.org/doi/10.34133/remotesensing.0380>

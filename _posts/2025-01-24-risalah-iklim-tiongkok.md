@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Suhu ekstrem Tiongkok: Risalah iklim 60 tahun"
+author: dewek
+categories: [ Lingkungan ]
+tags: [ Iklim, Tiongkok ]
+image: assets/img/risalah-iklim-tiongkok.avif
+---
+
+Seiring meningkatnya suhu global, peristiwa iklim ekstrem menjadi lebih sering dan intens, yang memicu lonjakan bencana alam dan mengakibatkan kerugian sosial-ekonomi yang signifikan. Organisasi Meteorologi Dunia melaporkan bahwa hampir 12.000 bencana terjadi antara tahun 1970 dan 2021, yang menyebabkan kerugian ekonomi sekitar $4,3 triliun. Meningkatnya peristiwa ini telah menarik perhatian global karena dampaknya yang menghancurkan pada ekosistem dan populasi manusia. Memahami pola, frekuensi, dan tingkat keparahan suhu ekstrem sangat penting untuk menyusun strategi mitigasi dan adaptasi yang efektif. Variabilitas spasial dari perubahan ini, yang dipengaruhi oleh faktor geografis dan atmosfer, memerlukan penelitian mendalam tentang evolusi peristiwa suhu ekstrem di seluruh Tiongkok.
+
+Diterbitkan (DOI: 10.1007/s11442-024-2275-2) pada 10 Oktober 2024, di Journal of Geographical Sciences, penelitian yang dipimpin oleh para peneliti dari Akademi Ilmu Pengetahuan Tiongkok ini memberikan pemeriksaan terperinci tentang suhu ekstrem di Tiongkok. Dengan menganalisis data dari 2.138 stasiun cuaca, studi ini menawarkan wawasan komprehensif tentang perubahan iklim negara tersebut, dengan fokus pada 14 indeks suhu ekstrem.
+
+Studi ini menganalisis data suhu dari tahun 1961 hingga 2020 secara ketat, menggunakan catatan suhu harian dari 2.138 stasiun di seluruh Tiongkok. Studi ini mengungkap perubahan penting pada suhu ekstrem dingin dan hangat. Suhu ekstrem dingin, seperti malam yang dingin, siang yang dingin, hari yang beku, dan hari yang bersalju, menunjukkan penurunan yang signifikan, dengan rasio masing-masing −6,64, −2,67, −2,96, dan −0,97 hari per dekade. Sebaliknya, suhu ekstrem hangat, termasuk malam yang hangat, siang yang hangat, hari musim panas, dan malam tropis, menunjukkan peningkatan yang nyata, dengan rasio masing-masing 8,44, 5,18, 2,81, dan 2,50 hari per dekade. Selain itu, penelitian tersebut menemukan bahwa suhu terendah dan tertinggi masing-masing meningkat sebesar 0,47, 0,22, 0,26, dan 0,16°C per dekade.
+
+Untuk lebih memahami perubahan ini, para peneliti menggunakan analisis korelasi dan koherensi wavelet Pearson untuk mengeksplorasi hubungan antara indeks suhu ekstrem dan faktor sirkulasi atmosfer. Penelitian tersebut menemukan korelasi yang kuat antara suhu ekstrem dan faktor pendorong atmosfer global, dengan penekanan khusus pada Osilasi Multidekade Atlantik (AMO) dan Osilasi Arktik (AO), yang secara signifikan memengaruhi semua 14 indeks suhu ekstrem. Lebih jauh, Western Pacific Subtropical High (WPSH) menunjukkan korelasi positif yang kuat dengan suhu ekstrem yang hangat dan korelasi negatif dengan suhu ekstrem yang dingin, yang selanjutnya menggarisbawahi perannya dalam membentuk pola iklim Tiongkok. Temuan ini mengungkap hubungan yang kompleks antara sirkulasi atmosfer global dan suhu ekstrem lokal di Tiongkok.
+
+Luo Yuanbo, penulis utama studi tersebut, menekankan pentingnya temuan ini: “Analisis mendalam kami tentang suhu ekstrem selama enam dekade terakhir menyoroti tren pemanasan yang jelas di seluruh Tiongkok, dengan implikasi lingkungan dan sosial yang mendalam. Korelasi antara indeks suhu ekstrem dan faktor sirkulasi atmosfer, seperti AMO dan AO, menunjukkan bagaimana pendorong iklim global memengaruhi kondisi lokal. Memahami interaksi ini sangat penting untuk memprediksi peristiwa cuaca buruk dan merumuskan strategi pencegahan bencana yang efektif.”
+
+Penelitian ini memiliki nilai praktis yang signifikan. Dengan memetakan pola spasio-temporal suhu ekstrem dan hubungannya dengan sirkulasi atmosfer, penelitian ini meningkatkan model prediktif untuk peristiwa cuaca ekstrem di Tiongkok. Temuan studi ini penting untuk mengembangkan strategi kesiapsiagaan bencana, yang memungkinkan para pembuat kebijakan untuk mengalokasikan sumber daya secara lebih efektif dan melindungi masyarakat dari risiko terkait iklim. Selain itu, wawasan tentang pengaruh atmosfer global berkontribusi pada upaya iklim internasional yang lebih luas dan pengembangan strategi adaptif.
+
+Sumber: <https://link.springer.com/article/10.1007/s11442-024-2275-2>
