@@ -19,7 +19,7 @@ search: exclude
           <ul id="search-results"></ul>
           <script>
           window.store = {
-{% for post in site.posts %}{% unless page.search == "exclude" %}
+{% for post in site.posts %}
             "{{ post.url | slugify }}": {
               "title": "{{ post.title | xml_escape }}",
               "author": "{{ post.author | xml_escape }}",
@@ -28,7 +28,7 @@ search: exclude
               "url": "{{ post.url | xml_escape }}"
             }
 {% unless forloop.last %},{% endunless %}
-{% endunless %}{% endfor %}
+{% endfor %}
           };
           </script>
           <script src="/assets/js/lunr.min.js"></script>
