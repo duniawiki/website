@@ -1,6 +1,7 @@
 default:
   image: ruby:3.2
 
+
 deploy-pages:
   script:
     - gem install bundler
