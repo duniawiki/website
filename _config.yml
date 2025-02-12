@@ -30,11 +30,19 @@ plugins:
 authors:
     dewek:
       name:           Dewek
-      site:           https://ko-fi.com/duniawiki
+      site:           https://dunia.wiki/sawer
       avatar:         assets/images/avatar3.webp
-      bio:            "Peminum kopi, pecinta kampung, pembenci kampungan! Ngopi yuk di ko-fi.com/duniawiki"
+      bio:            "Penggagas dan penulis utama (saat ini satu-satunya). Peminum kopi, ngopi yuk di ko-fi.com/duniawiki"
       email:          gakpunya@dunia.wiki.nospam
       twitter:        https://twitter.com/dunia_wiki
+
+    ah:
+      name:           "Agung Harjanto"
+      site:           https://www.jamparing.net
+      avatar:         assets/images/avatar1.png
+      bio:            "Asisten Teknis, membantu pengembangan, publikasi dan pemeliharaan website. Gak punya artikel."
+      email:          gakpunya@dunia.wiki.nospam
+      twitter:        https://twitter.com/jamparingnet
  
 # Defaults
 defaults:
