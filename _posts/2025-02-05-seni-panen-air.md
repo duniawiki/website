@@ -7,7 +7,7 @@ tags: [ Panen Air, Seni, featured ]
 image: assets/img/artfog.avif
 ---
 
-Jika dalam artikel terdahulu [sekelompok ilmuwan Singapura menggunakan teknologi untuk memanen air dari udara]](/202501/nus-panen-air), kali ini dari belahan dunia lain ilmuwan dan seniman berkolaborasi menggabungkan seni dan teknologi dalam melakukannya.
+Jika dalam artikel terdahulu [sekelompok ilmuwan Singapura menggunakan teknologi untuk memanen air dari udara](/202501/nus-panen-air), kali ini dari belahan dunia lain ilmuwan dan seniman berkolaborasi menggabungkan seni dan teknologi dalam melakukannya.
 
 Di negara bagian yang terkenal dengan kekeringannya, di mana separuh wilayah selatan baru-baru ini mengalami kebakaran hebat, memahami sumber air alami California menjadi lebih penting dari sebelumnya. Tiga profesor dari University of California, Santa Cruz telah bekerja sama untuk membuat studi penelitian ilmiah dan artistik multi-bagian, Art+Fog sebagai sebuah kolektif.
 
