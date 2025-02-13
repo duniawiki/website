@@ -15,7 +15,7 @@ Sumber-sumber artikel kebanyakan berasal dari hasil penelitian yang bisa diakses
 
 Digagas oleh satu orang dengan latar belakang ilmu bumi, kami mengajak pengunjung situs ini untuk juga ikut berbagi dengan yang lainnya atas keprihatinan yang sama, baik dengan menyebarkan atau ikut berkontribusi dalam pembuatan artikel maupun dukungan dana untuk keberlangsungan situs ini.
 
-<div style="text-align:center"><a href="/join"><h3>JOIN</h3></a></div>
+<div style="text-align:center" class="mb-4"><a href="/join" class="btn btn-primary d-block mb-2"><b>JOIN</b></a></div>
 
 Segala kritik dan saran bisa dikirim lewat halaman [kontak](/contact) atau dengan komentar di halaman ini.
 
