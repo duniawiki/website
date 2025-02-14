@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Pemetaan plastik film pertanian skala besar dan presisi tinggi: status terkini, tantangan, dan arah masa depan"
+author: dewek
+categories: [ Peta ]
+tags: [ Pertanian, Sampah Plastik ]
+image: assets/img/plastik-mulsa.avif
+lat: 39.9106491
+long: 116.3330572
+---
+
+Plastik film pertanian, salah satu contohnya adalah plastik mulsa, yang penting untuk meningkatkan produktivitas tanaman, telah menimbulkan kekhawatiran ekologis yang signifikan karena dampaknya terhadap lingkungan. Ada beberapa masalah, yaitu keragaman jenis film, perbedaan waktu cakupan, dan variasi sifat spektral, yang menyebabkan kelangkaan peta PG (_plastic greenhouses_ atau plastik rumahkaca) dan PMF (_plastic-mulched farmland_ atau plastik mulsa) skala besar meskipun ada banyak upaya dalam pemetaan plastik film pertanian. Seiring dengan meningkatnya permintaan akan praktik pertanian berkelanjutan, solusi pemetaan yang akurat dan terukur telah menjadi kebutuhan kritis. Berdasarkan tantangan ini, ada kebutuhan mendesak untuk penelitian mendalam tentang metodologi baru yang dapat mengatasi masalah ini dan meningkatkan presisi dan penerapan pemetaan plastik film pertanian.
+
+Pada tanggal 30 Januari 2025, tim peneliti dari Institut Ilmu Geografis dan Penelitian Sumber Daya Alam di Akademi Ilmu Pengetahuan Tiongkok menerbitkan makalah baru (DOI: 10.34133/remotesensing.0395) di Journal of Remote Sensing. Studi mereka tidak hanya menggunakan metode bibliometrik untuk memilah dinamika penelitian pemetaan plastik film pertanian sejak tahun 2000, memvisualisasikan evolusi data penginderaan jauh, tetapi juga menganalisis karakteristik spektral-temporal-spasial PG dan PMF, membandingkan kelebihan dan kekurangan metode pemetaan yang ada, dan lebih jauh menekankan arah masa depan pemetaan plastik film pertanian skala besar, seri waktu yang panjang, dan presisi tinggi.
+
+Tim melakukan analisis bibliometrik pada dinamika penelitian pemetaan plastik film pertanian. Jumlah publikasi tentang pemetaan plastik film pertanian telah tumbuh secara eksponensial dari tahun 2000 hingga 2023, yang menunjukkan bahwa topik tersebut telah menerima perhatian dan minat penelitian yang signifikan dalam beberapa tahun terakhir. Studi tersebut secara sistematis mengatur dan memvisualisasikan evolusi sumber data penginderaan jauh untuk pemetaan plastik film pertanian sejak tahun 2000, termasuk gambar optik resolusi tinggi (seperti QuickBird dan WorldView), data satelit resolusi sedang (seperti Landsat dan Sentinel-2), dan data radar (misalnya, Radarsat-2). Temuan mereka mengungkapkan bahwa gambar beresolusi sedang dan rendah digunakan untuk pemetaan PG dan PMF skala besar dan jangka panjang, sementara gambar beresolusi tinggi digabungkan dengan pembelajaran mendalam untuk mengekstrak informasi mendalam lokal.
+
+![hasil riset](/assets/img/plastik-film/avif)
+
+Penelitian ini melakukan analisis mendalam terhadap karakteristik spektral-temporal-spasial PG dan PMF. Reflektansi PG berada di antara permukaan kedap air dan vegetasi. PMF biasanya berupa campuran film mulsa dan tanah, dan spektrumnya sering kali merupakan kombinasi keduanya. Fitur spektral dianggap sebagai variabel penting dalam pemetaan plastik film pertanian, dengan indeks spektral yang menawarkan kinerja yang stabil dari waktu ke waktu. Fitur spektral saja tidak cukup untuk mengidentifikasi plastik film pertanian secara akurat. Baik PG maupun PMF menunjukkan variasi signifikan dalam karakteristik spasial dan optik di berbagai wilayah. Penggabungan fitur temporal dan spasial membantu meningkatkan akurasi klasifikasi, terutama melalui metode klasifikasi berbasis objek. Penelitian ini juga membandingkan kelebihan dan kekurangan metode pemetaan yang ada. Pengklasifikasi terbimbing memberikan akurasi yang lebih tinggi daripada pengklasifikasi tak terbimbing. Pembelajaran mendalam berdasarkan gambar beresolusi tinggi telah meningkatkan akurasi pemetaan plastik film pertanian secara signifikan, tetapi sebagian besar digunakan untuk ekstraksi PG di wilayah-wilayah tertentu.
+
+Penelitian ini lebih lanjut menekankan arah masa depan pemetaan plastik film pertanian berskala besar, berjangka waktu panjang, dan berpresisi tinggi. Penelitian di masa mendatang harus berfokus pada pengintegrasian data multisumber, perluasan kumpulan data sampel, penyusunan algoritme yang kuat, pemisahan jenis, dan ekstraksi waktu cakupan plastik film pertanian. Kumpulan data berjangka waktu panjang dengan akurasi tinggi akan memberikan informasi berharga dan panduan ilmiah untuk pengelolaan lahan yang efektif dan perlindungan lingkungan hidup.
+
+"Tinjauan ini mensintesis kemajuan penting dalam pemetaan plastik film pertanian, mengidentifikasi kesenjangan penelitian yang ada, dan memberikan perspektif baru untuk menghasilkan peta plastik film pertanian nasional atau global," kata peneliti utama. "Wawasan ini memberikan landasan ilmiah untuk memantau plastik film pertanian, mengoptimalkan pengelolaan lahan, dan mengurangi risiko lingkungan. Ke depannya, memprioritaskan kolaborasi global untuk menyelaraskan kumpulan data multisumber dan algoritme adaptif akan sangat penting untuk memajukan pertanian berkelanjutan dan pembuatan kebijakan berbasis bukti." 
+
+Peta plastik film pertanian yang akurat dan tepat waktu diharapkan dapat mendukung pengelolaan lahan yang efektif, merasionalisasi perilaku penggunaan lahan manusia, dan menginformasikan perumusan kebijakan untuk keberlanjutan lingkungan. Studi ini dapat memberikan pemahaman yang komprehensif tentang status pemetaan plastik film pertanian saat ini dan arah masa depan pemetaan plastik film pertanian berskala besar, jangka panjang, dan berpresisi tinggi.
+
+Sumber: <https://spj.science.org/journal/remotesensing>

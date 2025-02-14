@@ -5,6 +5,8 @@ author: dewek
 categories: [ Lingkungan ]
 tags: [ Lahan Gambut ]
 image: assets/img/gambut-tak-terlindungi.avif
+lat: 40.848792
+long: -73.882424
 ---
 
 Sebuah studi baru yang dirilis hari ini (waktu Indonesia, atau kemarin waktu New York) mengungkap bahwa lahan gambut — penyimpan karbon penting yang belum pernah didengar banyak orang — sangat kurang terlindungi, sehingga membahayakan iklim global. Dengan luas hanya 3% dari permukaan Bumi, lahan basah terestrial ini menyimpan 600 miliar ton karbon — lebih banyak dari gabungan seluruh biomassa hutan dunia — namun hanya 17% lahan gambut yang termasuk dalam kawasan lindung.
