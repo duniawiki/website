@@ -2,7 +2,7 @@
 layout: post
 title:  "Data satelit majukan Tujuan Pembangunan Berkelanjutan (SDG)"
 author: dewek
-categories: [ Teknologi ]
+categories: [ Tekno ]
 tags: [ Inderaja, SDG ]
 image: assets/img/sinergi-eo-sdg.avif
 ---
