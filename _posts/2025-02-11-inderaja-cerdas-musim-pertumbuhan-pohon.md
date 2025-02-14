@@ -2,7 +2,7 @@
 layout: post
 title:  "Inderaja Cerdas: Menguraikan musim pertumbuhan pohon di Shenzhen"
 author: dewek
-categories: [ Teknologi, Urban ]
+categories: [ Tekno, Urban ]
 tags: [ Inderaja ]
 image: assets/img/pertumbuhan-pohon-shenzhen.avif
 ---

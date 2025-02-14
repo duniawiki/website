@@ -19,13 +19,13 @@ Inovasi utama dari studi ini adalah penggunaan teknik visualisasi tingkat lanjut
 
 Sorotan
 
-• Kerangka kerja yang dapat ditingkatkan mendukung pembuatan basis data intensitas material yang disesuaikan untuk berbagai wilayah, memfasilitasi perencanaan dan perbaikan perkotaan yang berkelanjutan.
-• Deep learning memungkinkan identifikasi bahan bangunan yang tepat menggunakan data penginderaan jauh dan tampilan jalan.
-• Visualisasi prediksi model meningkatkan interpretabilitas dan mengungkap proses pengambilan keputusan.
-• Penilaian material yang akurat menginformasikan peningkatan bangunan yang ditargetkan untuk meningkatkan efisiensi energi.
+- Kerangka kerja yang dapat ditingkatkan mendukung pembuatan basis data intensitas material yang disesuaikan untuk berbagai wilayah, memfasilitasi perencanaan dan perbaikan perkotaan yang berkelanjutan.
+- Deep learning memungkinkan identifikasi bahan bangunan yang tepat menggunakan data penginderaan jauh dan tampilan jalan.
+- Visualisasi prediksi model meningkatkan interpretabilitas dan mengungkap proses pengambilan keputusan.
+- Penilaian material yang akurat menginformasikan peningkatan bangunan yang ditargetkan untuk meningkatkan efisiensi energi.
 
 Prof. Gang Liu, peneliti utama proyek ini, menyoroti potensi transformatif teknologi: "Studi kami menunjukkan bagaimana deep learning dan penginderaan jauh dapat secara mendasar mengubah cara kita menganalisis dan mengelola bahan bangunan perkotaan. Dengan data intensitas material yang tepat, kita dapat mendorong perencanaan perkotaan yang lebih berkelanjutan dan perbaikan yang ditargetkan, yang berkontribusi langsung pada upaya pengurangan karbon global."
 
-Implikasi dari terobosan ini jauh melampaui penelitian akademis. Dengan memungkinkan kota-kota mengidentifikasi dan memetakan bahan bangunan secara akurat, kerangka kerja ini membekali para perencana kota dengan data penting untuk strategi efisiensi energi, kebijakan pengurangan karbon, dan inisiatif ekonomi sirkular. Skalabilitasnya memastikan bahwa pendekatan tersebut dapat disesuaikan dengan berbagai lingkungan perkotaan, menjadikannya pengubah permainan untuk perencanaan kota berkelanjutan di seluruh
+Implikasi dari terobosan ini jauh melampaui penelitian akademis. Dengan memungkinkan kota-kota mengidentifikasi dan memetakan bahan bangunan secara akurat, kerangka kerja ini membekali para perencana kota dengan data penting untuk strategi efisiensi energi, kebijakan pengurangan karbon, dan inisiatif ekonomi sirkular. Skalabilitasnya memastikan bahwa pendekatan tersebut dapat disesuaikan dengan berbagai lingkungan perkotaan, menjadikannya pengubah permainan untuk perencanaan kota berkelanjutan di seluruh dunia.
 
 Sumber: <https://doi.org/10.1016/j.ese.2025.100538>
