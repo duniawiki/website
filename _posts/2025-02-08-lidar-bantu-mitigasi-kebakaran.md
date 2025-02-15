@@ -5,6 +5,8 @@ author: dewek
 categories: [ Tekno ]
 tags: [ LA Fires, Inderaja ]
 image: assets/img/pexels-rdne-8552696.avif
+lat: 35.186139
+long: -111.6608624
 ---
 
 Kebakaran hutan California, AS baru-baru ini lebih besar dan lebih intens daripada yang pernah terjadi dalam catatan sejarah. Jika Anda telah menonton berita pada titik mana pun dalam dekade terakhir, itu tidak mengejutkan.

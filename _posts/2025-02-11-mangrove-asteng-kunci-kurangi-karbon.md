@@ -5,6 +5,8 @@ author: dewek
 categories: [ Lingkungan ]
 tags: [ Asia Tenggara, Lahan Gambut, Mangrove ]
 image: assets/img/pexels-tomfisk-2666806.avif
+lat: 1.2952634
+long: 103.7684854
 ---
 
 Melestarikan dan memulihkan lahan gambut dan hutan bakau (mangrove) yang kaya karbon di Asia Tenggara dapat mengurangi lebih dari 50 persen emisi karbon penggunaan lahan di kawasan tersebut, menurut sebuah studi internasional baru yang diterbitkan di Nature Communications.

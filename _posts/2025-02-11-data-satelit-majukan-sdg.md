@@ -5,6 +5,8 @@ author: dewek
 categories: [ Tekno ]
 tags: [ Inderaja, SDG ]
 image: assets/img/sinergi-eo-sdg.avif
+lat: 39.9997975
+long: 116.3254413
 ---
 
 Tujuan Pembangunan Berkelanjutan (_Sustainable Development Goals_, SDGs) yang digagas PBB untuk tahun 2030 bertujuan untuk mengatasi tantangan global yang kritis dengan mendorong pertumbuhan ekonomi, inklusi sosial, dan keberlanjutan lingkungan. Namun, perjalanan menuju pencapaian ini terhambat oleh kesenjangan data yang kritis—35% indikator Tujuan Pembangunan Berkelanjutan tidak memiliki data yang memadai. Metode pengumpulan data tradisional tidak memadai, tidak dapat sepenuhnya menangkap kompleksitas kemiskinan atau melacak kemajuan yang berkelanjutan. Data satelit observasi bumi (_earth observation_, EO) hadir sebagai solusi transformatif, memberikan wawasan terperinci tentang kondisi sosial-ekonomi yang penting bagi pembangunan berkelanjutan. Potensi yang berkembang ini menggarisbawahi kebutuhan mendesak untuk eksplorasi yang lebih mendalam ke dalam aplikasi data EO untuk menjembatani kesenjangan ini dan mempercepat pencapaian SDG.

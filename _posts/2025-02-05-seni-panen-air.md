@@ -5,6 +5,8 @@ author: dewek
 categories: [ Tekno ]
 tags: [ Panen Air, Seni, featured ]
 image: assets/img/artfog.avif
+lat: 36.9489196
+long: -122.0662719
 ---
 
 Jika dalam artikel terdahulu [sekelompok ilmuwan Singapura menggunakan teknologi untuk memanen air dari udara](/202501/nus-panen-air), kali ini dari belahan dunia lain ilmuwan dan seniman berkolaborasi menggabungkan seni dan teknologi dalam melakukannya.

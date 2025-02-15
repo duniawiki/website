@@ -5,6 +5,8 @@ author: dewek
 categories: [ Alam Liar ]
 tags: [ Wisata, Fauna ]
 image: assets/img/gajah-namibia.avif
+lat: -19.341594
+long: 15.6323329
 ---
 
 Saat wisatawan menjelajah alam, pikiran mereka sering kali terfokus pada hewan yang akan mereka lihat. Namun, hewan mungkin juga memikirkan mereka, menurut sebuah studi baru dari University of Georgia.

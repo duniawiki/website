@@ -5,6 +5,8 @@ author: dewek
 categories: [ Tekno, Urban ]
 tags: [ Inderaja ]
 image: assets/img/pertumbuhan-pohon-shenzhen.avif
+lat: 39.9997975
+long: 116.3254413
 ---
 
 Seiring dengan perluasan kota yang kian pesat, hutan kota dan layanan yang disediakannya pun berkembang pesat. Namun, metode pengukuran tinggi pohon konvensional mahal dan memakan waktu, sehingga membatasi kemampuan untuk menghasilkan data yang komprehensif dan berpresisi tinggi. Tantangan yang mendesak ini telah mendorong perlunya penelitian inovatif yang menggabungkan penginderaan jauh multisumber dan pembelajaran mesin untuk meningkatkan skala dan efisiensi pemantauan hutan di lanskap perkotaan yang dinamis.
