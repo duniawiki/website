@@ -5,8 +5,8 @@ author: dewek
 categories: [ Lingkungan ]
 tags: [ Sampah Plastik ]
 image: assets/img/flyd-NXyXNl5LTqM-unsplash.avif
-lat: 32.0581331
-long: 118.8037308
+lat: 40.4757765
+long: -74.4335818
 ---
 
 Partikel plastik mikro dan nano dalam tanah dan air dapat secara signifikan meningkatkan jumlah bahan kimia beracun yang diserap tanaman dan sel usus manusia, menurut dua studi baru dari Rutgers Health yang menimbulkan kekhawatiran baru tentang keamanan pangan dari polusi plastik.
