@@ -15,6 +15,7 @@ mailchimp-list: 'https://wiki.us15.list-manage.com/subscribe/post?u=e067a35c5425
 include: ["_pages"]
 permalink: /:year:month/:title
 githubpages: 'https://github.com/duniawiki/website'
+timezone: 'Asia/Jakarta'
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "enabled"
