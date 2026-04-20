@@ -35,4 +35,6 @@ Namun, bahan kimia baku yang dilepaskan tidak hanya merusak lapisan ozon tetapi 
 
 Apakah emisi ini akan dikurangi di masa depan melalui batasan emisi yang mengikat atau pembatasan yang ditargetkan pada zat-zat yang sangat bermasalah, menurut Stefan Reimann, pada akhirnya merupakan keputusan politik. Meskipun Protokol Montreal terus dianggap sebagai salah satu keberhasilan terbesar kebijakan lingkungan internasional, protokol ini harus ditinjau secara berkala dan, jika perlu, diadaptasi berdasarkan temuan ilmiah baru. “Protokol Montreal berhasil karena sains, politik, dan industri bekerja sama secara erat. Kerja sama seperti itu sangat penting lagi saat ini untuk mengatasi tantangan baru,” kata Reimann.
 
-Sumber: <http://doi.org/10.1038/s41467-026-70533-w>
+{% include youtube.html id="nv8tcwNE7Vc" %}
+
+Sumber: <https://doi.org/10.1038/s41467-026-70533-w>
