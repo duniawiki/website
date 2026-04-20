@@ -7,6 +7,7 @@ tags: [ Pemanasan Global, Efek Rumah Kaca, Industri ]
 image: assets/img/ozon.avif
 lat: 46.5475572
 long: 7.9828428
+youtubeId: nv8tcwNE7Vc
 ---
 
 Meskipun bahan kimia perusak ozon seperti karbon tetraklorida (CCl₄) atau klorofluorokarbon (CFC) tertentu tidak lagi digunakan dalam lemari es dan busa, bahan-bahan tersebut terus berfungsi sebagai bahan baku dalam proses industri untuk produksi refrigeran dan plastik modern. Hingga saat ini, bahan kimia yang disebut bahan baku ini luput dari perhatian perjanjian internasional karena jumlah yang diproduksi dan tingkat kebocorannya jauh lebih rendah dari yang diperkirakan.
@@ -35,6 +36,6 @@ Namun, bahan kimia baku yang dilepaskan tidak hanya merusak lapisan ozon tetapi 
 
 Apakah emisi ini akan dikurangi di masa depan melalui batasan emisi yang mengikat atau pembatasan yang ditargetkan pada zat-zat yang sangat bermasalah, menurut Stefan Reimann, pada akhirnya merupakan keputusan politik. Meskipun Protokol Montreal terus dianggap sebagai salah satu keberhasilan terbesar kebijakan lingkungan internasional, protokol ini harus ditinjau secara berkala dan, jika perlu, diadaptasi berdasarkan temuan ilmiah baru. “Protokol Montreal berhasil karena sains, politik, dan industri bekerja sama secara erat. Kerja sama seperti itu sangat penting lagi saat ini untuk mengatasi tantangan baru,” kata Reimann.
 
-{% include youtube.html id="nv8tcwNE7Vc" %}
+{% include youtube.html id=page.youtubeId %}
 
 Sumber: <https://doi.org/10.1038/s41467-026-70533-w>
