@@ -29,9 +29,8 @@ Studi ini penting karena menambah potongan teka-teki kecil pada sejarah terkini 
 
 
 Keterangan foto:
-
-    Gelombang Radcliffe. Awan yang menyusun struktur ini disorot dengan warna merah dan ditumpangkan pada ilustrasi Bima Sakti karya seniman. Lokasi Matahari disorot dengan titik kuning.
-
-    Alyssa A. Goodman/Harvard University
+> _Gelombang Radcliffe. Awan yang menyusun struktur ini disorot dengan warna merah dan ditumpangkan pada ilustrasi Bima Sakti karya seniman. Lokasi Matahari disorot dengan titik kuning._
+> 
+> Alyssa A. Goodman/Harvard University
     
 Sumber: <https://www.aanda.org/articles/aa/full_html/2025/02/aa52061-24/aa52061-24.html>
