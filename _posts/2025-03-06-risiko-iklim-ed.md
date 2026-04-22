@@ -2,8 +2,8 @@
 layout: post
 title:  "Risiko Iklim: Pedang bermata dua bagi ekonomi digital dan rendah karbon"
 author: dewek
-categories: [ Lingkungan ]
-tags: [ Iklim, Ekonomi ]
+categories: [ Iklim ]
+tags: [ Ekonomi ]
 image: assets/img/risiko-iklim-ed.avif
 lat: 36.0440254 
 long: 103.894378

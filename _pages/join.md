@@ -11,13 +11,13 @@ Terima kasih telah meluangkan waktu untuk berkontribusi pada proyek ini! Kami sa
 
 Kontribusi bisa dilakukan dengan menulis artikel baru, memperbaiki artikel yang sudah ada, memberikan kritik dan saran, atau dengan donasi.
 
-## Menulis Artikel Baru atau Menyunting Yang Sudah ADa
+## Menulis Artikel Baru atau Menyunting Yang Sudah Ada
 
 Berikut adalah panduan langkah demi langkah agar proses kontribusi Anda berjalan lancar.
 
 1. **Persiapan Awal**
 
-    Sebelum memulai, pastikan Anda memiliki akun [**GitHub**](https://github.com) dan memahami dasar-dasar [**Markdown**](https://www.markdownguide.org/). Karena website ini dibangun menggunakan [**Jekyll**](https://jekyllrb.com/), struktur folder dan front matter sangatlah penting.
+    Sebelum memulai, pastikan Anda memiliki akun [**GitHub**](https://github.com) dan memahami dasar-dasar [**Markdown**](https://www.markdownguide.org/). Karena website ini dibangun menggunakan [**Jekyll**](https://jekyllrb.com/), struktur folder dan _front matter_ sangatlah penting.
     
     **Struktur Utama Folder:**
     
@@ -28,23 +28,23 @@ Berikut adalah panduan langkah demi langkah agar proses kontribusi Anda berjalan
 
     Kami menggunakan model *Fork & Pull Request*. Ikuti langkah berikut:
 
-    a. **Fork** repositori ini ke akun GitHub Anda.
+    - **Fork** repositori ini ke akun GitHub Anda.
 
-    b. **Clone** hasil fork tersebut ke komputer lokal Anda:
+    - **Clone** hasil fork tersebut ke komputer lokal Anda:
 
         ````bash
         git clone https://github.com/duniawiki/website.git
         ````
 
-    c. Buat **Branch** baru untuk perubahan Anda agar tetap rapi:
+    - Buat **Branch** baru untuk perubahan Anda agar tetap rapi:
     
         ````bash
         git checkout -b fitur-atau-artikel-baru
         ````
 
-    d. Lakukan perubahan atau tambahkan konten baru.
+    - Lakukan perubahan atau tambahkan konten baru.
  
-    e. **Commit** dan **Push** perubahan Anda:
+    - **Commit** dan **Push** perubahan Anda:
 
         ````bash
         git add .
@@ -52,7 +52,7 @@ Berikut adalah panduan langkah demi langkah agar proses kontribusi Anda berjalan
         git push origin fitur-atau-artikel-baru
         ````
 
-    f. Buka repositori asli di GitHub dan klik "**Compare & pull request**".
+    - Buka repositori asli di GitHub dan klik "**Compare & pull request**".
 
 
 3. **Menulis Artikel Baru**
@@ -69,8 +69,8 @@ Berikut adalah panduan langkah demi langkah agar proses kontribusi Anda berjalan
     layout: post
     title: "Judul Artikel Anda"
     date: 2026-04-22 09:00:00 +0700
-    categories: [ Lingkungan ]
-    tags: [ Iklim, Pemanasan Global ]
+    categories: [ Iklim ]
+    tags: [ Pemanasan Global ]
     author: "Nama Anda"
     image: assets/img/nama-file-gambar.webp
     lat: yy.yyyyy
@@ -82,11 +82,11 @@ Berikut adalah panduan langkah demi langkah agar proses kontribusi Anda berjalan
 
 4. **Kategori dan Kata Kunci ( *categories & tags* )**
 
-    Kategori utama disebutkan dalam `categories`. Saat ini tersedia kategori: `Lingkungan`, `Tekno`, `Urban`, `Alam Liar`, `Energi Baru`, `Semesta`, `Peta` dan `Sejarah`. Mohon untuk menulis artikel dalam kategori yang sudah disediakan ini, atau hubungi kami jika dirasa perlu ada kategori baru.
+    Kategori utama disebutkan dalam `categories`. Saat ini tersedia kategori: `Lingkungan`, `Iklim`, `Tekno`, `Urban`, `Alam Liar`, `Energi Baru`, `Semesta`, `Peta` dan `Sejarah`. Mohon untuk menulis artikel dalam kategori yang sudah disediakan ini, atau hubungi kami jika dirasa perlu ada kategori baru.
 
     Sedangkan untuk kata kunci (*tags*), Anda dibebaskan untuk memasukkan kata kunci yang sesuai dengan artikel kiriman Anda, tetapi disarankan tidak lebih dari tiga kata kunci.
 
-5. **Lintang dan Bujur ( Lat & Long )**
+5. **Lintang dan Bujur ( *lat & long* )**
 
     Gunakan jika artikel anda memuat informasi lokasi tentang dimana kejadian atau artikel itu berasal. Ditulis dengan format [_decimal degree_](https://id.wikipedia.org/wiki/Derajat_desimal). 
     
@@ -111,7 +111,7 @@ Berikut adalah panduan langkah demi langkah agar proses kontribusi Anda berjalan
 
         Lakukan optimasi pada gambar yang akan digunakan untuk menghemat ruang penyimpanan dan mempercepat akses pengunjung, [TinyPNG](https://www.tinypng.com) bisa sangat membantu dalam mengecilkan ukuran berkas gambar.
     
-    - **Kode (Code Blocks)**
+    - **Kode (*Code Blocks*)**
     
         Untuk menampilkan potongan kode, gunakan _backticks_:
     
@@ -159,7 +159,7 @@ Berikut adalah panduan langkah demi langkah agar proses kontribusi Anda berjalan
 
 Kritik, saran dan komentar membangun akan sangat membantu menjaga kualitas situs dan tulisan yang ada. Silakan layangkan komentar atas tulisan di bagian bawah tiap halaman artikel. Sedangkan [kritik dan saran]](/about#graphcomment) bisa diajukan di bagian bawah halaman "Tentang Kami".
 
-Untuk kejelasan identitas, kritik, saran dan komentar ini mengguanakan sistem dari GraphComment. Identitas anda diperjelas dengan login ke GraphComment, atau menggunakan akun Facebook, X dan Google.
+Untuk kejelasan identitas, kritik, saran dan komentar ini mengguanakan sistem dari GraphComment. Identitas anda diperjelas dengan login ke GraphComment, atau menggunakan akun Facebook, X/Twitter dan Google.
 
 ## Donasi
 

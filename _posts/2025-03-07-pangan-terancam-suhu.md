@@ -2,8 +2,8 @@
 layout: post
 title:  "Studi: Tanaman pangan penting dunia terancam punah akibat kenaikan suhu"
 author: dewek
-categories: [ Lingkungan ]
-tags: [ Iklim, Pertanian, Pemanasan Global ]
+categories: [ Iklimn ]
+tags: [ Pertanian, Pemanasan Global ]
 image: assets/img/crop-diversity-change.webp
 lat: 60.1857984 
 long: 24.8271145

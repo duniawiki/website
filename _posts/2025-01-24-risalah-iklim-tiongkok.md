@@ -2,8 +2,8 @@
 layout: post
 title:  "Suhu ekstrem Tiongkok: Risalah iklim 60 tahun"
 author: dewek
-categories: [ Lingkungan ]
-tags: [ Iklim, Tiongkok ]
+categories: [ Iklim ]
+tags: [ Tiongkok ]
 image: assets/img/risalah-iklim-tiongkok.avif
 ---
 

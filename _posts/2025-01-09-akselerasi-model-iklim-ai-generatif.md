@@ -2,8 +2,8 @@
 layout: post
 title:  "Akselerasi pemodelan iklim dengan AI generatif"
 author: dewek
-categories: [ Tekno ]
-tags: [ Iklim, Prediksi, AI ]
+categories: [ Tekno, Iklim ]
+tags: [ Prediksi, AI ]
 image: assets/img/difusi-sferikal.avif
 ---
 
