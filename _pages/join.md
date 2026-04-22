@@ -4,7 +4,7 @@ permalink: "/join"
 layout: page-about
 # comments: false
 search: exclude
-image: assets/images/aboutus.avif
+image: assets/images/contribution.avif
 ---
 
 Terima kasih telah meluangkan waktu untuk berkontribusi pada proyek ini! Kami sangat menghargai bantuan Anda untuk membuat dokumentasi atau konten kami menjadi lebih baik.
@@ -58,7 +58,7 @@ Berikut adalah panduan langkah demi langkah agar proses kontribusi Anda berjalan
     title: "Judul Artikel Anda"
     date: 2026-04-22 09:00:00 +0700
     categories: [ Lingkungan ]
-    tags: [ Iklim, Pemanasan GLobal ]
+    tags: [ Iklim, Pemanasan Global ]
     author: "Nama Anda"
     image: assets/img/nama-file-gambar.webp
     lat: yy.yyyyy
@@ -66,13 +66,26 @@ Berikut adalah panduan langkah demi langkah agar proses kontribusi Anda berjalan
     ---
     ````
 
-4. **Panduan Penulisan Markdown**
+4. **Kategori dan Kata Kunci ( *categories & tags* )**
+
+    Kategori utama disebutkan dalam `categories`. Saat ini tersedia kategori: `Lingkungan`, `Semesta`, `Tekno`, `Urban`, `Alam Liar`, `Energi Baru`, `Peta` dan `Sejarah`. Mohon untuk menulis artikel dalam kategori yang sudah disediakan ini.
+
+    Sedangkan untuk kata kunci (*tags*), Anda dibebaskan untuk memasukkan kata kunci yang sesuai dengan artikel kiriman Anda, tetapi disarankan tidak lebih dari tiga kata kunci.
+
+5. **Lintang dan Bujur ( Lat & Long )**
+
+    Gunakan jika artikel anda memuat informasi lokasi tentang dimana kejadian atau artikel itu berasal. Ditulis dengan format _decimal degree_. 
+    
+    Jika ada lebih dari satu lokasi pada artikel, gunakan lokasi utama dalam artikel. Abaikan jika tidak ada (tidak perlu menuliskan baris `lat` dan `long`).
+    
+
+6. **Panduan Penulisan Markdown**
 
     Gunakan format Markdown standar untuk menjaga konsistensi tampilan:
     
     **Heading**
     
-    Gunakan `#` untuk judul besar dan `##` atau `###` untuk sub-judul. Jangan gunakan `#` tunggal di dalam artikel karena sudah digunakan untuk judul utama oleh sistem.
+    Gunakan `#` untuk judul besar dan `##` atau `###` untuk sub-judul. Jangan gunakan `#` tunggal di dalam artikel karena sudah digunakan untuk judul utama oleh sistem (sudah ada `title` pada _Front Matter_).
     
     **Gambar**
     
@@ -80,26 +93,37 @@ Berikut adalah panduan langkah demi langkah agar proses kontribusi Anda berjalan
 
     `![Deskripsi Gambar](/assets/img/nama-file.jpg)`
 
-    Untuk gambar utama artikel tidak perlu memanggil ulang karena akan otomatis ditambahkan di bagian atas artikel oleh sistem.
+    Untuk gambar utama artikel tidak perlu memanggil ulang karena akan otomatis ditambahkan di bagian atas artikel oleh sistem (sudah ada `image` pada _Front Matter_).
     
     **Kode (Code Blocks)**
     
     Untuk menampilkan potongan kode, gunakan _backticks_:
     
-    ````python
+    ````
+    ```python
     def hello_world():
     print("Halo kontributor!")
+    ```
     ````
+
+    Akan menghasilkan:
+
+    ```python
+    def hello_world():
+    print("Halo kontributor!")
+    ```
+
+
 
     **Tabel**
 
-    Gunakan tiga atau lebih tanda minus/penghubung (`---`)untuk memisahkan kepala kolom dan gunakan karakter pipa (`|`) untuk memisahkan tiap kolom. 
+    Gunakan tiga atau lebih tanda minus/penghubung (`---`) untuk memisahkan kepala kolom dan gunakan karakter pipa (`|`) untuk memisahkan tiap kolom. 
 
     Contoh: 
     
     ````YAML
     |Nama Komponen |Fungsi |
-    |-------|-------|
+    |--------------|-------|
     |`_config.yml` |Pengaturan utama website|
     |`_layouts  `  |Template tampilan halaman|
     ````
@@ -111,11 +135,7 @@ Berikut adalah panduan langkah demi langkah agar proses kontribusi Anda berjalan
     |`_config.yml` |Pengaturan utama website|
     |`_layouts`    |Template tampilan halaman|
 
-5. **Lintang dan Bujur ( Lat & Long )**
-
-    Gunakan jika artikel anda memuat informasi lokasi tentang dimana kejadian atau artikel itu berasal. Ditulis dengan format _decimal degree_. Abaikan jika tidak ada.
-    
-6. **Hal-hal yang Perlu Diperhatikan**
+7. **Hal-hal yang Perlu Diperhatikan**
     - **Gunakan Bahasa yang Jelas**: Pastikan tulisan mudah dipahami karena meskipun situs ini banyak memuat sari artikel ilmiah tetapi tujuan utamanya adalah pembaca umum, dan bebas dari kesalahan ketik (_typo_).
     - **Lisensi**: Dengan mengirimkan Pull Request, Anda setuju bahwa kontribusi Anda akan dilisensikan di bawah lisensi yang sama dengan proyek ini.
     - **Review**: Tim kami akan meninjau perubahan Anda. Jika ada saran perbaikan, kami akan meninggalkan komentar di halaman Pull Request Anda.
