@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Risiko Iklim: Pedang bermata dua bagi ekonomi digital dan rendah karbon"
+author: dewek
+categories: [ Lingkungan ]
+tags: [ Iklim, Ekonomi ]
+image: assets/img/risiko-iklim-ed.avif
+lat: 36.0440254 
+long: 103.894378
+---
+
+Ekonomi digital dan rendah karbon merupakan inti dari pergeseran global menuju pembangunan berkelanjutan. Ekonomi digital memanfaatkan teknologi informasi untuk meningkatkan produktivitas dan menciptakan model bisnis baru, sementara ekonomi rendah karbon berfokus pada meminimalkan emisi gas rumah kaca dan meningkatkan efisiensi energi. Namun, ekonomi-ekonomi ini menghadapi ancaman yang semakin meningkat dari risiko fisik terkait iklim, seperti peristiwa cuaca ekstrem dan bencana alam. Gangguan ini dapat merusak infrastruktur, mengganggu rantai pasokan, dan menggoyahkan sistem energi, sehingga menimbulkan tantangan serius bagi integrasi sektor digital dan rendah karbon yang mulus. Mengingat ancaman yang semakin meningkat ini, ada kebutuhan mendesak untuk penelitian yang lebih mendalam tentang bagaimana risiko iklim memengaruhi perkembangan paradigma ekonomi yang saling terkait ini.
+
+Diterbitkan (DOI: 10.1016/j.dsm.2025.01.004) pada 23 Januari 2025, dalam [Data Science and Management](https://www.sciencedirect.com/journal/data-science-and-management), studi ini dilakukan oleh para peneliti di Universitas Keuangan dan Ekonomi Lanzhou (_Lanzhou University of Finance and Economics_). Mereka menggunakan gabungan model derajat dengan analisis regresi Tobit untuk mengeksplorasi dinamika antara ekonomi digital dan rendah karbon Tiongkok dalam menghadapi risiko fisik iklim. Studi ini menyoroti perbedaan regional dalam pembangunan ekonomi dan mengungkap mekanisme di mana risiko iklim memengaruhi integrasi sektor-sektor kunci ini.
+
+Studi ini mengungkapkan bahwa meskipun integrasi ekonomi digital dan rendah karbon Tiongkok secara umum meningkat, perkembangan secara keseluruhan masih relatif kurang memuaskan, dengan disparitas regional yang mencolok. Wilayah timur memimpin dalam pembangunan terkoordinasi, sementara wilayah barat tertinggal. Kondisi cuaca ekstrem—terutama gelombang dingin yang parah, curah hujan lebat, dan kekeringan—ditemukan secara signifikan menghambat kemajuan kedua ekonomi tersebut. Risiko yang disimpulkan oleh studi ini, terutama mengganggu inovasi teknologi hijau, yang sangat penting untuk sinkronisasi sektor digital dan rendah karbon. Penelitian ini juga menyoroti pola regional yang berbeda dalam bagaimana risiko iklim didistribusikan: daerah dengan pembangunan yang lebih maju cenderung memengaruhi daerah tetangga secara positif, menciptakan korelasi "tinggi-tinggi, rendah-rendah". Hal ini menggarisbawahi peran penting pembangunan regional dalam integrasi yang lebih luas dari ekonomi-ekonomi ini, menunjukkan bahwa meskipun inovasi digital dapat membantu transisi rendah karbon, risiko iklim menciptakan hambatan signifikan terhadap sinergi ini.
+
+"Risiko fisik iklim bukan hanya masalah lingkungan; itu adalah hambatan ekonomi yang dapat menggagalkan kemajuan ekonomi digital dan rendah karbon," jelas Dr. Bo Yang, penulis utama studi tersebut. "Penelitian kami menggarisbawahi pentingnya mengembangkan strategi adaptif untuk mengurangi risiko ini dan memastikan integrasi berkelanjutan dari sektor-sektor ekonomi penting ini." Wawasan Dr. Yang menyoroti implikasi yang lebih luas dari temuan studi tersebut, menekankan kebutuhan mendesak akan solusi yang tepat sasaran untuk mengatasi hambatan ekonomi ini.
+
+Kesimpulan studi ini membawa implikasi mendalam bagi para pembuat kebijakan dan pemimpin industri. Untuk mengurangi dampak buruk dari risiko fisik iklim, penelitian ini menganjurkan penguatan ketahanan infrastruktur, mempromosikan inovasi teknologi hijau, dan menyesuaikan rencana pembangunan dengan tantangan iklim regional tertentu. Selain itu, mendorong kolaborasi antarwilayah yang lebih besar dan mengoptimalkan struktur industri dapat membantu mempercepat integrasi ekonomi digital dan rendah karbon. Meningkatkan kesadaran publik dan melibatkan masyarakat dalam manajemen risiko iklim juga sangat penting untuk membangun masa depan ekonomi yang lebih berkelanjutan dan tangguh. Studi ini menyediakan kerangka kerja komprehensif untuk mengatasi hubungan kompleks antara risiko iklim dan pembangunan ekonomi, menawarkan wawasan berharga untuk mencapai tujuan keberlanjutan global.
+
+Sumber: <https://doi.org/10.1016/j.dsm.2025.01.004>
