@@ -9,7 +9,7 @@ image: assets/images/contribution.avif
 
 Terima kasih telah meluangkan waktu untuk berkontribusi pada proyek ini! Kami sangat menghargai bantuan Anda untuk membuat dokumentasi atau konten kami menjadi lebih baik.
 
-Kontribusi bisa dilakukan dengan menulis artikel baru, memperbaiki artikel yang sudah ada, memberikan [kritik dan saran](/about#graphcomment), atau dengan donasi.
+Kontribusi bisa dilakukan dengan menulis artikel baru, memperbaiki artikel yang sudah ada, memberikan kritik dan saran, atau dengan donasi.
 
 ## Menulis Artikel Baru atau Menyunting Yang Sudah ADa
 
@@ -152,6 +152,12 @@ Berikut adalah panduan langkah demi langkah agar proses kontribusi Anda berjalan
     - **Gunakan Bahasa yang Jelas**: Pastikan tulisan mudah dipahami karena meskipun situs ini banyak memuat sari artikel ilmiah tetapi tujuan utamanya adalah pembaca umum, dan bebas dari kesalahan ketik (_typo_).
     - **Lisensi**: Dengan mengirimkan Pull Request, Anda setuju bahwa kontribusi Anda akan dilisensikan di bawah lisensi yang sama dengan proyek ini.
     - **Review**: Tim kami akan meninjau perubahan Anda. Jika ada saran perbaikan, kami akan meninggalkan komentar di halaman Pull Request Anda.
+
+## Kritik, Saran dan Komentar
+
+Kritik, saran dan komentar membangun akan sangat membantu menjaga kualitas situs dan tulisan yang ada. Silakan layangkan komentar atas tulisan di bagian bawah tiap halaman artikel. Sedangkan [kritik dan saran]](/about#graphcomment) bisa diajukan di bagian bawah halaman "Tentang Kami".
+
+Untuk kejelasan identitas, kritik, saran dan komentar ini mengguanakan sistem dari GraphComment. Identitas anda diperjelas dengan login ke GraphComment, atau menggunakan akun Facebook, X dan Google.
 
 ## Donasi
 

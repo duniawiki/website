@@ -19,3 +19,7 @@ Digagas oleh satu orang dengan latar belakang ilmu bumi, kami mengajak pengunjun
 
 Segala kritik dan saran bisa dikirim lewat halaman [kontak](/contact) atau dengan komentar di halaman ini.
 
+## Kritik dan Saran
+
+
+
