@@ -107,7 +107,9 @@ Berikut adalah panduan langkah demi langkah agar proses kontribusi Anda berjalan
 
         `![Deskripsi Gambar](/assets/img/nama-file.jpg)`
 
-        Untuk gambar utama artikel tidak perlu memanggil ulang karena akan otomatis ditambahkan di bagian atas artikel oleh sistem (sudah ada `image` pada _Front Matter_).
+        Gambar utama artikel tidak perlu dipanggil ulang karena akan otomatis ditambahkan di bagian atas artikel oleh sistem (sudah ada `image` pada _Front Matter_).
+
+        Lakukan optimasi pada gambar yang akan digunakan untuk menghemat ruang penyimpanan dan mempercepat akses pengunjung, [TinyPNG](https://www.tinypng.com) bisa sangat membantu dalam mengecilkan ukuran berkas gambar.
     
     - **Kode (Code Blocks)**
     
