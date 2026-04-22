@@ -21,11 +21,11 @@ Pemanasan global akan secara signifikan mengurangi jumlah lahan pertanian global
 
 Sebaliknya, wilayah lintang tengah dan tinggi kemungkinan akan mempertahankan lahan produktifnya secara keseluruhan, meskipun zona untuk tanaman tertentu akan berubah. Wilayah-wilayah ini juga kemungkinan akan mengalami peningkatan keanekaragaman tanaman. "Misalnya, budidaya buah-buahan beriklim sedang, seperti pir, dapat menjadi lebih umum di wilayah yang lebih utara," kata Heikonen.
 
-![](/assets/img/crop-diversity-change-full.avif)
-> Perubahan potensi keanekaragaman tanaman pangan dalam skenario pemanasan global +2C dibandingkan dengan situasi saat ini (%).
-> _Matti Kummu et.al / Aalto University_
+![perubahan tanaman pangan](/assets/img/crop-diversity-change-full.avif)
+*Perubahan potensi keanekaragaman tanaman pangan dalam skenario pemanasan global +2°C dibandingkan dengan situasi saat ini (%).*
+Matti Kummu et.al / Aalto University
 
-Namun, bahkan jika kondisi iklim menguntungkan, faktor lain dapat menghambat pertanian di daerah-daerah ini, kata penulis senior studi tersebut, Profesor Matti Kummu. ‘Kami menunjukkan bahwa ada potensi iklim, tetapi, misalnya, pemanasan dapat membawa hama baru dan peristiwa cuaca ekstrem, yang tidak termasuk dalam model kami. Jadi situasinya sebenarnya tidak sesederhana itu.’
+Namun, bahkan jika kondisi iklim menguntungkan, faktor lain dapat menghambat pertanian di daerah-daerah ini, kata penulis senior studi tersebut, Profesor Matti Kummu. "Kami menunjukkan bahwa ada potensi iklim, tetapi, misalnya, pemanasan dapat membawa hama baru dan peristiwa cuaca ekstrem, yang tidak termasuk dalam model kami. Jadi situasinya sebenarnya tidak sesederhana itu."
 
 **Opsi Adaptasi dan Mitigasi**
 
