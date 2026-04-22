@@ -1,5 +1,5 @@
 ---
-title: "Berkontribusi"
+title: "Berkontribusi di Dunia.Wiki"
 permalink: "/join"
 layout: page-about
 # comments: false
@@ -8,6 +8,10 @@ image: assets/images/contribution.avif
 ---
 
 Terima kasih telah meluangkan waktu untuk berkontribusi pada proyek ini! Kami sangat menghargai bantuan Anda untuk membuat dokumentasi atau konten kami menjadi lebih baik.
+
+Kontribusi bisa dilakukan dengan menulis artikel baru, memperbaiki artikel yang sudah ada, memberikan [kritik dan saran](/about#graphcomment), atau dengan donasi.
+
+## Menulis Artikel Baru atau Menyunting Yang Sudah ADa
 
 Berikut adalah panduan langkah demi langkah agar proses kontribusi Anda berjalan lancar.
 
@@ -23,24 +27,32 @@ Berikut adalah panduan langkah demi langkah agar proses kontribusi Anda berjalan
 2. **Alur Kerja Git (Workflow)**
 
     Kami menggunakan model *Fork & Pull Request*. Ikuti langkah berikut:
-    1. **Fork** repositori ini ke akun GitHub Anda.
-    2. **Clone** hasil fork tersebut ke komputer lokal Anda:
+
+    a. **Fork** repositori ini ke akun GitHub Anda.
+
+    b. **Clone** hasil fork tersebut ke komputer lokal Anda:
 
         ````bash
         git clone https://github.com/duniawiki/website.git
         ````
-    3. Buat **Branch** baru untuk perubahan Anda agar tetap rapi:
+
+    c. Buat **Branch** baru untuk perubahan Anda agar tetap rapi:
+    
         ````bash
         git checkout -b fitur-atau-artikel-baru
         ````
-    4. Lakukan perubahan atau tambahkan konten baru.
-    5. **Commit** dan **Push** perubahan Anda:
+
+    d. Lakukan perubahan atau tambahkan konten baru.
+ 
+    e. **Commit** dan **Push** perubahan Anda:
+
         ````bash
         git add .
         git commit -m "Menambah artikel tentang X"
         git push origin fitur-atau-artikel-baru
         ````
-    6. Buka repositori asli di GitHub dan klik "**Compare & pull request**".
+
+    f. Buka repositori asli di GitHub dan klik "**Compare & pull request**".
 
 
 3. **Menulis Artikel Baru**
@@ -66,15 +78,17 @@ Berikut adalah panduan langkah demi langkah agar proses kontribusi Anda berjalan
     ---
     ````
 
+    Contoh format penulisan artikel lengkap, bisa dilihat pada berkas artikel yang ada dalam folder `_posts`.
+
 4. **Kategori dan Kata Kunci ( *categories & tags* )**
 
-    Kategori utama disebutkan dalam `categories`. Saat ini tersedia kategori: `Lingkungan`, `Semesta`, `Tekno`, `Urban`, `Alam Liar`, `Energi Baru`, `Peta` dan `Sejarah`. Mohon untuk menulis artikel dalam kategori yang sudah disediakan ini.
+    Kategori utama disebutkan dalam `categories`. Saat ini tersedia kategori: `Lingkungan`, `Tekno`, `Urban`, `Alam Liar`, `Energi Baru`, `Semesta`, `Peta` dan `Sejarah`. Mohon untuk menulis artikel dalam kategori yang sudah disediakan ini, atau hubungi kami jika dirasa perlu ada kategori baru.
 
     Sedangkan untuk kata kunci (*tags*), Anda dibebaskan untuk memasukkan kata kunci yang sesuai dengan artikel kiriman Anda, tetapi disarankan tidak lebih dari tiga kata kunci.
 
 5. **Lintang dan Bujur ( Lat & Long )**
 
-    Gunakan jika artikel anda memuat informasi lokasi tentang dimana kejadian atau artikel itu berasal. Ditulis dengan format _decimal degree_. 
+    Gunakan jika artikel anda memuat informasi lokasi tentang dimana kejadian atau artikel itu berasal. Ditulis dengan format [_decimal degree_](https://id.wikipedia.org/wiki/Derajat_desimal). 
     
     Jika ada lebih dari satu lokasi pada artikel, gunakan lokasi utama dalam artikel. Abaikan jika tidak ada (tidak perlu menuliskan baris `lat` dan `long`).
     
@@ -83,61 +97,64 @@ Berikut adalah panduan langkah demi langkah agar proses kontribusi Anda berjalan
 
     Gunakan format Markdown standar untuk menjaga konsistensi tampilan:
     
-    **Heading**
+    - **Heading**
     
-    Gunakan `#` untuk judul besar dan `##` atau `###` untuk sub-judul. Jangan gunakan `#` tunggal di dalam artikel karena sudah digunakan untuk judul utama oleh sistem (sudah ada `title` pada _Front Matter_).
+        Gunakan `#` untuk judul besar dan `##` atau `###` untuk sub-judul. Jangan gunakan `#` tunggal di dalam artikel karena sudah digunakan untuk judul utama oleh sistem (sudah ada `title` pada _Front Matter_).
     
-    **Gambar**
+    - **Gambar**
     
-    Simpan gambar di folder `assets/img/`. Panggil dengan cara:
+        Simpan gambar di folder `assets/img/`. Panggil dengan cara:
 
-    `![Deskripsi Gambar](/assets/img/nama-file.jpg)`
+        `![Deskripsi Gambar](/assets/img/nama-file.jpg)`
 
-    Untuk gambar utama artikel tidak perlu memanggil ulang karena akan otomatis ditambahkan di bagian atas artikel oleh sistem (sudah ada `image` pada _Front Matter_).
+        Untuk gambar utama artikel tidak perlu memanggil ulang karena akan otomatis ditambahkan di bagian atas artikel oleh sistem (sudah ada `image` pada _Front Matter_).
     
-    **Kode (Code Blocks)**
+    - **Kode (Code Blocks)**
     
-    Untuk menampilkan potongan kode, gunakan _backticks_:
+        Untuk menampilkan potongan kode, gunakan _backticks_:
     
-    ````
-    ```python
-    def hello_world():
-    print("Halo kontributor!")
-    ```
-    ````
+        ````
+        ```python
+        def hello_world():
+        print("Halo kontributor!")
+        ```
+        ````
 
-    Akan menghasilkan:
+        Akan menghasilkan:
 
-    ```python
-    def hello_world():
-    print("Halo kontributor!")
-    ```
+        ```python
+        def hello_world():
+        print("Halo kontributor!")
+        ```
 
+    - **Tabel**
 
+        Gunakan tiga atau lebih tanda minus/penghubung (`---`) untuk memisahkan kepala kolom dan gunakan karakter pipa (`|`) untuk memisahkan tiap kolom. 
 
-    **Tabel**
-
-    Gunakan tiga atau lebih tanda minus/penghubung (`---`) untuk memisahkan kepala kolom dan gunakan karakter pipa (`|`) untuk memisahkan tiap kolom. 
-
-    Contoh: 
+        Contoh: 
     
-    ````YAML
-    |Nama Komponen |Fungsi |
-    |--------------|-------|
-    |`_config.yml` |Pengaturan utama website|
-    |`_layouts  `  |Template tampilan halaman|
-    ````
+        ````YAML
+        |Nama Komponen |Fungsi |
+        |--------------|-------|
+        |`_config.yml` |Pengaturan utama website|
+        |`_layouts  `  |Template tampilan halaman|
+        ````
 
-    Untuk mendapatkan hasil seperti ini:
+        Untuk mendapatkan hasil seperti ini:
 
-    |Nama Komponen |Fungsi |
-    |-------|-------|
-    |`_config.yml` |Pengaturan utama website|
-    |`_layouts`    |Template tampilan halaman|
+        |Nama Komponen |Fungsi |
+        |-------|-------|
+        |`_config.yml` |Pengaturan utama website|
+        |`_layouts`    |Template tampilan halaman|
+
 
 7. **Hal-hal yang Perlu Diperhatikan**
     - **Gunakan Bahasa yang Jelas**: Pastikan tulisan mudah dipahami karena meskipun situs ini banyak memuat sari artikel ilmiah tetapi tujuan utamanya adalah pembaca umum, dan bebas dari kesalahan ketik (_typo_).
     - **Lisensi**: Dengan mengirimkan Pull Request, Anda setuju bahwa kontribusi Anda akan dilisensikan di bawah lisensi yang sama dengan proyek ini.
     - **Review**: Tim kami akan meninjau perubahan Anda. Jika ada saran perbaikan, kami akan meninggalkan komentar di halaman Pull Request Anda.
 
-**Selamat berkontribusi!** Jika ada pertanyaan, jangan ragu untuk membuka Issue baru.
+## Donasi
+
+Donasi bisa dilakukan lewat [saweria.com](/sawer) untuk keperluan teknis pemeliharan dan kelangsungan situs ini. 
+
+**Selamat berkontribusi!** Jika ada pertanyaan, jangan ragu untuk membuka [Issue](https://github.com/duniawiki/website/issues) baru, atau [hubungi kami](/contact).
