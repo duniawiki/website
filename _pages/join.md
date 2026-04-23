@@ -163,6 +163,6 @@ Untuk kejelasan identitas, kritik, saran dan komentar ini mengguanakan sistem da
 
 ## Donasi
 
-Donasi bisa dilakukan lewat [saweria.com](/sawer) untuk keperluan teknis pemeliharan dan kelangsungan situs ini. 
+Donasi bisa dilakukan lewat [saweria.co](/sawer) untuk keperluan teknis pemeliharan dan kelangsungan situs ini. 
 
 **Selamat berkontribusi!** Jika ada pertanyaan, jangan ragu untuk membuka [Issue](https://github.com/duniawiki/website/issues) baru, atau [hubungi kami](/contact).
