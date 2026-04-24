@@ -2,7 +2,7 @@
 layout: post
 title:  "Meningkatkan aksi iklim: Wawasan satelit untuk emisi CO2 bahan bakar fosil"
 author: dewek
-categories: [ Lingkungan ]
+categories: [ Iklim ]
 tags: [ Pemanasan Global, Emisi Karbon ]
 image: assets/img/satelit-emisi.avif
 ---

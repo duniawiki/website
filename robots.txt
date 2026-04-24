@@ -8,3 +8,4 @@ User-agent: AdsBot-Google
 Sitemap: {{ site.url }}/sitemap.xml
 Disallow: /search
 Disallow: /tag/
+Disallow: /sawer

@@ -5,6 +5,9 @@ author: dewek
 categories: [ Lingkungan ]
 image: assets/img/inderaja-limbah-plastik.avif
 tags: [Inderaja, Sampah Plastik, featured]
+youtubeId: yaUmFwJwUAE
+lat: 44.9753541
+long: -93.2330739
 ---
 
 Sebuah studi yang baru pertama dibuat dilakukan oleh para peneliti di University of Minnesota Twin Cities menunjukkan bagaimana penginderaan jarak jauh (inderaja, _remote sensing_) dapat membantu memantau dan membuang sampah plastik dari lingkungan air tawar seperti Sungai Mississippi.
@@ -29,6 +32,6 @@ Selain Olyaei dan Ebtehaj, tim tersebut juga melibatkan Christopher R. Ellis, se
 
 Pekerjaan ini didanai oleh Minnesota Environment and Natural Resources Trust Fund (ENTRF) sebagaimana direkomendasikan oleh Legislative-Citizen Commission on Minnesota Resources (LCCMR). ENRTF adalah dana permanen di Minnesota yang menyediakan dana untuk perlindungan dan konservasi sumber daya alam Minnesota. 
 
-Baca keseluruhan makalah penelitian berjudul, “A Hyperspectral Reflectance Database of Plastic Debris with Different Fractional Abundance in River Systems,” kunjungi situs web [Nature](https://www.nature.com/articles/s41597-024-03974-x#Ack1).
+{% include youtube.html id=page.youtubeId %}
 
-[![Tonton YouTube](https://img.youtube.com/vi/yaUmFwJwUAE/hqdefault.jpg)](https://www.youtube.com/watch?v=yaUmFwJwUAE)
+Baca keseluruhan makalah penelitian berjudul, “A Hyperspectral Reflectance Database of Plastic Debris with Different Fractional Abundance in River Systems,” kunjungi situs web [Nature](https://www.nature.com/articles/s41597-024-03974-x#Ack1).
