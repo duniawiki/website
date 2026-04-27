@@ -31,5 +31,27 @@ comments: false
             </div>
         </div>
         {% endfor %}
+        <div class="col-lg-6 mb-4">
+            <div class="p-4 border rounded">
+                <div class="row">
+                    <div class="col-md-3 mb-4 mb-md-0"><img alt="you?" src="{{site.baseurl}}/assets/images/user.webp" class="rounded-circle" height="80" width="80"></div>
+                    <div class="col-md-9">
+                        <a href="{{site.baseurl}}/join">
+                            <h4 class="text-dark mb-0"> {{ author[1].name }} </h4>
+                            <small class="d-inline-block mt-1 mb-3 font-weight-normal">(Bergabung)</small>
+                            <div class="excerpt">
+                                Jadilah bagian dari kontributor di situs ini dengan mengirim tulisan anda.
+                            </div>
+                        </a>
+                        <div class="icon-block mt-3 d-flex justify-content-between">  
+                            <div>
+                                <a target="_blank" href="#"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
+                                <a target="_blank" href="/join"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
