@@ -41,4 +41,4 @@ Temuan studi ini menggarisbawahi betapa pentingnya memahami dampak historis akti
 
 Titik panas dan titik dingin global dari ancaman terhadap  keanekaragaman biokultural (RLI biokultural). Titik panas didefinisikan sebagai wilayah di kuantil 2,5% terbawah yang sesuai dengan nilai RLI rendah (IUCN Red List Indicator), dan titik dingin didefinisikan sebagai wilayah di kuantil 2,5% teratas yang sesuai dengan nilai RLI tinggi. Wilayah kecil dan pulau-pulau dilingkari menggunakan kode warna yang sama. Garis peta membatasi area studi dan tidak selalu menggambarkan batas negara yang ada.
 
-Sumber: <https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/pan3.70308>
+Sumber: <https://doi.org/10.1002/pan3.70308>
