@@ -157,7 +157,7 @@ Berikut adalah panduan langkah demi langkah agar proses kontribusi Anda berjalan
 
 ## Kritik, Saran dan Komentar
 
-Kritik, saran dan komentar membangun akan sangat membantu menjaga kualitas situs dan tulisan yang ada. Silakan layangkan komentar atas tulisan di bagian bawah tiap halaman artikel. Sedangkan [kritik dan saran]](/about#graphcomment) bisa diajukan di bagian bawah halaman "Tentang Kami".
+Kritik, saran dan komentar membangun akan sangat membantu menjaga kualitas situs dan tulisan yang ada. Silakan layangkan komentar atas tulisan di bagian bawah tiap halaman artikel. Sedangkan [kritik dan saran](/about#graphcomment) bisa diajukan di bagian bawah halaman "Tentang Kami".
 
 Untuk kejelasan identitas, kritik, saran dan komentar ini mengguanakan sistem dari GraphComment. Identitas anda diperjelas dengan login ke GraphComment, atau menggunakan akun Facebook, X/Twitter dan Google.
 
