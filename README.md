@@ -1,6 +1,6 @@
 # dunia.wiki
 
-Site repo
+Site repo for https://dunia.wiki
 
 ## Change Log
 
@@ -8,3 +8,11 @@ Site repo
 - 2025 Jan 22: Beta release (version 0.9.9). Need works on about pages. The founder start writing on git.
 - 2025 Jan 08: Initial release. Very early stage (version 0.0.1)
 
+## Contributing
+
+See: https://github.com/duniawiki/website/wiki
+
+## Sponsorship
+
+- <https://ko-fi.com/duniawiki>
+- <https://saweria.co/duniawiki>

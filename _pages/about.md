@@ -4,7 +4,7 @@ permalink: "/about"
 layout: page-about
 comments: true
 search: exclude
-image: assets/images/aboutus.avif
+image: assets/images/landfill.avif
 ---
 
 **{{site.name}}** merupakan situs blog bertema lingkungan dan teknologi yang bersifat terbuka. Siapapun bisa mengedit atau mengirimkan berita dan artikel yang sesuai dengan tema utama situs ini.
